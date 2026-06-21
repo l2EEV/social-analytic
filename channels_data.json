@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-20T00:05:35.046127+00:00",
+  "fetched_at": "2026-06-21T00:02:52.954561+00:00",
   "search_queries": [
     "สรุปสอบ IC",
     "ข้อสอบ IC",
@@ -17,6 +17,79 @@
   "new_videos_days": 365,
   "channels": [
     {
+      "channel_name": "AIMC Knowledge",
+      "channel_id": "UCTzgulf5uHzUvCvc2xmbPuw",
+      "is_own_channel": false,
+      "videos": [
+        {
+          "video_id": "m0nMtE2p2gU",
+          "title": "IC Plain : หมวดที่ 1_บทที่ 1 และ บทที่ 2 - อ.ดวงดี",
+          "thumbnail_url": "https://i.ytimg.com/vi/m0nMtE2p2gU/maxresdefault.jpg",
+          "duration_seconds": 4565,
+          "view_count": 94615,
+          "like_count": 1479,
+          "comment_count": 59,
+          "engagement_rate": 1.63,
+          "publish_date": "2021-04-01T02:23:52Z"
+        },
+        {
+          "video_id": "xDpvic3xfXI",
+          "title": "IC Plain : หมวดที่ 3_ความรู้เกี่ยวกับผลิตภัณฑ์ตลาดทุน : ตราสารทั่วไป Part 1_อ.ดวงดี",
+          "thumbnail_url": "https://i.ytimg.com/vi/xDpvic3xfXI/maxresdefault.jpg",
+          "duration_seconds": 2332,
+          "view_count": 31973,
+          "like_count": 365,
+          "comment_count": 4,
+          "engagement_rate": 1.15,
+          "publish_date": "2021-05-11T06:17:08Z"
+        },
+        {
+          "video_id": "3jX4nZp6PAk",
+          "title": "IC Plain : หมวดที่ 2_บทที่ 1_อ.ดวงดี",
+          "thumbnail_url": "https://i.ytimg.com/vi/3jX4nZp6PAk/maxresdefault.jpg",
+          "duration_seconds": 1760,
+          "view_count": 30821,
+          "like_count": 320,
+          "comment_count": 5,
+          "engagement_rate": 1.05,
+          "publish_date": "2021-04-22T08:52:40Z"
+        },
+        {
+          "video_id": "xYzUSiIfWFU",
+          "title": "IC Plain : หมวดที่ 3_ความรู้เกี่ยวกับผลิตภัณฑ์ตลาดทุน : ตราสารทั่วไป Part 2_อ.ดวงดี",
+          "thumbnail_url": "https://i.ytimg.com/vi/xYzUSiIfWFU/maxresdefault.jpg",
+          "duration_seconds": 2403,
+          "view_count": 23552,
+          "like_count": 199,
+          "comment_count": 3,
+          "engagement_rate": 0.86,
+          "publish_date": "2021-05-14T01:30:07Z"
+        },
+        {
+          "video_id": "C6_0bCCIq_I",
+          "title": "IC Plain : หมวดที่ 3_ความรู้เกี่ยวกับผลิตภัณฑ์ตลาดทุน : ตราสารทั่วไป Part 3_อ.ดวงดี",
+          "thumbnail_url": "https://i.ytimg.com/vi/C6_0bCCIq_I/maxresdefault.jpg",
+          "duration_seconds": 2360,
+          "view_count": 27021,
+          "like_count": 313,
+          "comment_count": 15,
+          "engagement_rate": 1.21,
+          "publish_date": "2021-05-16T01:30:00Z"
+        },
+        {
+          "video_id": "KtnNw_wEaB4",
+          "title": "IC Plain : หมวดที่ 1_บทที่ 3 - 6 _อ.ดวงดี",
+          "thumbnail_url": "https://i.ytimg.com/vi/KtnNw_wEaB4/maxresdefault.jpg",
+          "duration_seconds": 2466,
+          "view_count": 33752,
+          "like_count": 402,
+          "comment_count": 8,
+          "engagement_rate": 1.21,
+          "publish_date": "2021-04-09T02:43:43Z"
+        }
+      ]
+    },
+    {
       "channel_name": "Alongkorn .S (GogGag)",
       "channel_id": "UCyvCn7dIu5HoWA-IrgMkT1Q",
       "is_own_channel": false,
@@ -26,7 +99,7 @@
           "title": "แบบฝึกหัด IC หมวดที่ 1 (ชุดที่1)",
           "thumbnail_url": "https://i.ytimg.com/vi/L4KIR-mT5TE/maxresdefault.jpg",
           "duration_seconds": 5182,
-          "view_count": 30657,
+          "view_count": 30671,
           "like_count": 559,
           "comment_count": 49,
           "engagement_rate": 1.98,
@@ -37,73 +110,11 @@
           "title": "IC Plain หมวดที่ 1 Intro บทที่ 1",
           "thumbnail_url": "https://i.ytimg.com/vi/L5V903f585o/maxresdefault.jpg",
           "duration_seconds": 2954,
-          "view_count": 113842,
+          "view_count": 113853,
           "like_count": 1224,
           "comment_count": 150,
           "engagement_rate": 1.21,
           "publish_date": "2018-04-25T14:23:54Z"
-        },
-        {
-          "video_id": "aTDBa0ZUNVc",
-          "title": "IC Plain หมวดที่ 1 บทที่ 2",
-          "thumbnail_url": "https://i.ytimg.com/vi/aTDBa0ZUNVc/maxresdefault.jpg",
-          "duration_seconds": 4466,
-          "view_count": 76110,
-          "like_count": 534,
-          "comment_count": 63,
-          "engagement_rate": 0.78,
-          "publish_date": "2018-04-25T16:29:33Z"
-        }
-      ]
-    },
-    {
-      "channel_name": "AIMC Knowledge",
-      "channel_id": "UCTzgulf5uHzUvCvc2xmbPuw",
-      "is_own_channel": false,
-      "videos": [
-        {
-          "video_id": "m0nMtE2p2gU",
-          "title": "IC Plain : หมวดที่ 1_บทที่ 1 และ บทที่ 2 - อ.ดวงดี",
-          "thumbnail_url": "https://i.ytimg.com/vi/m0nMtE2p2gU/maxresdefault.jpg",
-          "duration_seconds": 4565,
-          "view_count": 94584,
-          "like_count": 1477,
-          "comment_count": 59,
-          "engagement_rate": 1.62,
-          "publish_date": "2021-04-01T02:23:52Z"
-        },
-        {
-          "video_id": "3jX4nZp6PAk",
-          "title": "IC Plain : หมวดที่ 2_บทที่ 1_อ.ดวงดี",
-          "thumbnail_url": "https://i.ytimg.com/vi/3jX4nZp6PAk/maxresdefault.jpg",
-          "duration_seconds": 1760,
-          "view_count": 30814,
-          "like_count": 320,
-          "comment_count": 5,
-          "engagement_rate": 1.05,
-          "publish_date": "2021-04-22T08:52:40Z"
-        },
-        {
-          "video_id": "KtnNw_wEaB4",
-          "title": "IC Plain : หมวดที่ 1_บทที่ 3 - 6 _อ.ดวงดี",
-          "thumbnail_url": "https://i.ytimg.com/vi/KtnNw_wEaB4/maxresdefault.jpg",
-          "duration_seconds": 2466,
-          "view_count": 33743,
-          "like_count": 402,
-          "comment_count": 8,
-          "engagement_rate": 1.22,
-          "publish_date": "2021-04-09T02:43:43Z"
-        },
-        {
-          "video_id": "xDpvic3xfXI",
-          "title": "IC Plain : หมวดที่ 3_ความรู้เกี่ยวกับผลิตภัณฑ์ตลาดทุน : ตราสารทั่วไป Part 1_อ.ดวงดี",
-          "thumbnail_url": "https://i.ytimg.com/vi/xDpvic3xfXI/maxresdefault.jpg",
-          "duration_seconds": 2332,
-          "view_count": 31955,
-          "like_count": 365,
-          "comment_count": 4,
-          "engagement_rate": 1.15,
-          "publish_date": "2021-05-11T06:17:08Z"
         }
       ]
     },
@@ -117,8 +128,8 @@
           "title": "สรุปข้อสอบ IC License | Plain Product หมวดที่ 1 (พร้อมสอบใน 1 ชั่วโมง)",
           "thumbnail_url": "https://i.ytimg.com/vi/1P2smTVWtnk/hqdefault.jpg",
           "duration_seconds": 3485,
-          "view_count": 89154,
-          "like_count": 2106,
+          "view_count": 89222,
+          "like_count": 2107,
           "comment_count": 52,
           "engagement_rate": 2.42,
           "publish_date": "2022-10-19T04:01:25Z"
@@ -128,69 +139,22 @@
           "title": "ตะลุยโจทย์แนวข้อสอบ IC License | EP.1 IC Plain ชุดที่ 1 (แนวข้อสอบจริง)",
           "thumbnail_url": "https://i.ytimg.com/vi/oT0keVyln-g/maxresdefault.jpg",
           "duration_seconds": 985,
-          "view_count": 27259,
-          "like_count": 558,
+          "view_count": 27276,
+          "like_count": 559,
           "comment_count": 14,
           "engagement_rate": 2.1,
           "publish_date": "2022-11-28T10:30:11Z"
         },
         {
-          "video_id": "7aoSxxmZAJc",
-          "title": "สรุปข้อสอบ IC License | Plain Product หมวดที่ 3 | EP.1 ตราสารทุนและหุ้นสามัญ (ครบจบใน 1 ชั่วโมง)",
-          "thumbnail_url": "https://i.ytimg.com/vi/7aoSxxmZAJc/hqdefault.jpg",
-          "duration_seconds": 2422,
-          "view_count": 18046,
-          "like_count": 298,
-          "comment_count": 2,
-          "engagement_rate": 1.66,
-          "publish_date": "2022-11-14T11:38:15Z"
-        },
-        {
-          "video_id": "D9kInv67NqQ",
-          "title": "ตะลุยโจทย์แนวข้อสอบ IC License | EP.2 IC Plain ชุดที่ 2 (Update 2566)",
-          "thumbnail_url": "https://i.ytimg.com/vi/D9kInv67NqQ/maxresdefault.jpg",
-          "duration_seconds": 1378,
-          "view_count": 23613,
-          "like_count": 454,
-          "comment_count": 19,
-          "engagement_rate": 2.0,
-          "publish_date": "2023-01-19T01:37:53Z"
-        }
-      ]
-    },
-    {
-      "channel_name": "bigboung",
-      "channel_id": "UCDIiLzm-DluktONaOz4dhaw",
-      "is_own_channel": false,
-      "videos": [
-        {
-          "video_id": "hthtfafU12Y",
-          "title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-          "thumbnail_url": "https://i.ytimg.com/vi/hthtfafU12Y/maxresdefault.jpg",
-          "duration_seconds": 16076,
-          "view_count": 110772,
-          "like_count": 1826,
-          "comment_count": 119,
-          "engagement_rate": 1.76,
-          "publish_date": "2026-06-10T16:41:32Z"
-        }
-      ]
-    },
-    {
-      "channel_name": "terodigital",
-      "channel_id": "UCq2_AaNWBd0kxzR1HL2yhsw",
-      "is_own_channel": false,
-      "videos": [
-        {
-          "video_id": "wLxjY95V9zY",
-          "title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-          "thumbnail_url": "https://i.ytimg.com/vi/wLxjY95V9zY/maxresdefault.jpg",
-          "duration_seconds": 5210,
-          "view_count": 78651,
-          "like_count": 1363,
-          "comment_count": 335,
-          "engagement_rate": 2.16,
-          "publish_date": "2026-06-16T11:29:32Z"
+          "video_id": "zyvAvPEvdBg",
+          "title": "สรุปข้อสอบ IC Plain (P1) | หมวด 3 บทที่ 1 ภาพรวมตราสารทุนและหุ้นสามัญ (เข้าใจใน 20 นาที)",
+          "thumbnail_url": "https://i.ytimg.com/vi/zyvAvPEvdBg/maxresdefault.jpg",
+          "duration_seconds": 1210,
+          "view_count": 9079,
+          "like_count": 167,
+          "comment_count": 0,
+          "engagement_rate": 1.84,
+          "publish_date": "2022-11-07T09:14:52Z"
         }
       ]
     },
@@ -204,11 +168,22 @@
           "title": "IC Plain หมวดที่ 1 บทที่ 1 : Smart Wealth อ.ยีน EP.2",
           "thumbnail_url": "https://i.ytimg.com/vi/y5I7HqXqtC8/maxresdefault.jpg",
           "duration_seconds": 1192,
-          "view_count": 58556,
+          "view_count": 58591,
           "like_count": 808,
           "comment_count": 42,
           "engagement_rate": 1.45,
           "publish_date": "2020-06-27T02:53:05Z"
+        },
+        {
+          "video_id": "HoTkemtnEsg",
+          "title": "IC Plain เทคนิคสอบผ่าน : Smart Wealth อ.ยีน EP.1",
+          "thumbnail_url": "https://i.ytimg.com/vi/HoTkemtnEsg/maxresdefault.jpg",
+          "duration_seconds": 758,
+          "view_count": 62165,
+          "like_count": 1007,
+          "comment_count": 80,
+          "engagement_rate": 1.75,
+          "publish_date": "2020-06-22T15:16:36Z"
         }
       ]
     },
@@ -218,26 +193,26 @@
       "is_own_channel": false,
       "videos": [
         {
-          "video_id": "TgwBto21Fqw",
-          "title": "คนที่จะสอบ IC IP AFPT CFP ต้องเตรียมตัวอย่างไร ถึงจะสอบผ่าน  #การสอบ #CFP #IP #AFPT #IC",
-          "thumbnail_url": "https://i.ytimg.com/vi/TgwBto21Fqw/maxresdefault.jpg",
-          "duration_seconds": 61,
-          "view_count": 6541,
-          "like_count": 128,
-          "comment_count": 1,
-          "engagement_rate": 1.97,
-          "publish_date": "2023-10-25T03:00:29Z"
-        },
-        {
           "video_id": "V7OrWg5EVsY",
           "title": "รู้จักใบอนุญาตผู้แนะนำการลงทุน หรือ IC License และใบอนุญาตผู้วางแผนการลงทุน หรือ IP License |ThaiPFA",
           "thumbnail_url": "https://i.ytimg.com/vi/V7OrWg5EVsY/maxresdefault.jpg",
           "duration_seconds": 412,
-          "view_count": 20520,
+          "view_count": 20532,
           "like_count": 378,
           "comment_count": 49,
           "engagement_rate": 2.08,
           "publish_date": "2021-03-20T11:00:18Z"
+        },
+        {
+          "video_id": "TgwBto21Fqw",
+          "title": "คนที่จะสอบ IC IP AFPT CFP ต้องเตรียมตัวอย่างไร ถึงจะสอบผ่าน  #การสอบ #CFP #IP #AFPT #IC",
+          "thumbnail_url": "https://i.ytimg.com/vi/TgwBto21Fqw/maxresdefault.jpg",
+          "duration_seconds": 61,
+          "view_count": 6548,
+          "like_count": 128,
+          "comment_count": 1,
+          "engagement_rate": 1.97,
+          "publish_date": "2023-10-25T03:00:29Z"
         },
         {
           "video_id": "Cr7ini2GJaM",
@@ -253,57 +228,10 @@
       ]
     },
     {
-      "channel_name": "การเงินคนโง่",
-      "channel_id": "UCkvFq6jKtKEmX3Z2SGQ1mgQ",
-      "is_own_channel": false,
-      "videos": [
-        {
-          "video_id": "3oapxVixcvk",
-          "title": "ATP Academy | ติวสอบ IC หมวดที่ 1 [บทที่ 1] ปัจจัยแวดล้อมของการลงทุนและตลาดเงิน",
-          "thumbnail_url": "https://i.ytimg.com/vi/3oapxVixcvk/maxresdefault.jpg",
-          "duration_seconds": 2308,
-          "view_count": 23274,
-          "like_count": 393,
-          "comment_count": 9,
-          "engagement_rate": 1.73,
-          "publish_date": "2024-04-25T07:54:27Z"
-        }
-      ]
-    },
-    {
-      "channel_name": "THE STANDARD PODCAST",
-      "channel_id": "UC3f2SY4F9zcxY1oxt9AF9WA",
-      "is_own_channel": false,
-      "videos": [
-        {
-          "video_id": "gTjQvhE5STs",
-          "title": "ทำไมหนังสือ ถึงเป็นสื่อที่พัฒนาสมองได้ดีที่สุด? | Human-ศาสตร์ EP.65",
-          "thumbnail_url": "https://i.ytimg.com/vi/gTjQvhE5STs/maxresdefault.jpg",
-          "duration_seconds": 2171,
-          "view_count": 18577,
-          "like_count": 848,
-          "comment_count": 44,
-          "engagement_rate": 4.8,
-          "publish_date": "2026-06-15T11:00:18Z"
-        }
-      ]
-    },
-    {
       "channel_name": "petcharat official",
       "channel_id": "UChbSiqQns1uIpx2YIpTMd0Q",
       "is_own_channel": false,
       "videos": [
-        {
-          "video_id": "OjJERUuHeVY",
-          "title": "ติวสอบ IC หมวดที่ 2 จรรยาบรรณและจริยธรรม",
-          "thumbnail_url": "https://i.ytimg.com/vi/OjJERUuHeVY/maxresdefault.jpg",
-          "duration_seconds": 6350,
-          "view_count": 10642,
-          "like_count": 173,
-          "comment_count": 5,
-          "engagement_rate": 1.67,
-          "publish_date": "2023-11-29T10:44:08Z"
-        },
         {
           "video_id": "O0dFQGebC84",
           "title": "ติวสอบ IC หมวดที่ 3 บทที่ 8 การซื้อขายตราสารหนี้ในประเทศไทย",
@@ -316,11 +244,22 @@
           "publish_date": "2023-12-03T07:01:05Z"
         },
         {
+          "video_id": "OjJERUuHeVY",
+          "title": "ติวสอบ IC หมวดที่ 2 จรรยาบรรณและจริยธรรม",
+          "thumbnail_url": "https://i.ytimg.com/vi/OjJERUuHeVY/maxresdefault.jpg",
+          "duration_seconds": 6350,
+          "view_count": 10656,
+          "like_count": 174,
+          "comment_count": 5,
+          "engagement_rate": 1.68,
+          "publish_date": "2023-11-29T10:44:08Z"
+        },
+        {
           "video_id": "_9g8sleep-w",
           "title": "ติวสอบ IC หมวดที่ 1 บทที่ 1 ปัจจัยแวดล้อมของการลงทุนและตลาดเงิน",
           "thumbnail_url": "https://i.ytimg.com/vi/_9g8sleep-w/maxresdefault.jpg",
           "duration_seconds": 2308,
-          "view_count": 4400,
+          "view_count": 4401,
           "like_count": 101,
           "comment_count": 6,
           "engagement_rate": 2.43,
@@ -338,33 +277,33 @@
           "title": "ติวสอบ IC License สรุปในสรุป Part 1",
           "thumbnail_url": "https://i.ytimg.com/vi/eRrfMaCjwpA/maxresdefault.jpg",
           "duration_seconds": 1022,
-          "view_count": 7588,
+          "view_count": 7606,
           "like_count": 177,
           "comment_count": 7,
           "engagement_rate": 2.42,
           "publish_date": "2024-02-08T04:34:31Z"
         },
         {
-          "video_id": "HYjpwprsIXM",
-          "title": "ติวสอบ IC License สรุปในสรุป Part 3",
-          "thumbnail_url": "https://i.ytimg.com/vi/HYjpwprsIXM/maxresdefault.jpg",
-          "duration_seconds": 1570,
-          "view_count": 4096,
-          "like_count": 76,
-          "comment_count": 4,
-          "engagement_rate": 1.95,
-          "publish_date": "2024-02-08T05:39:35Z"
-        },
-        {
           "video_id": "IFyeEnD2wuM",
           "title": "ติวสอบ IC License สรุปในสรุป Part 2",
           "thumbnail_url": "https://i.ytimg.com/vi/IFyeEnD2wuM/maxresdefault.jpg",
           "duration_seconds": 1076,
-          "view_count": 3595,
+          "view_count": 3605,
           "like_count": 65,
           "comment_count": 2,
           "engagement_rate": 1.86,
           "publish_date": "2024-02-08T05:01:36Z"
+        },
+        {
+          "video_id": "HYjpwprsIXM",
+          "title": "ติวสอบ IC License สรุปในสรุป Part 3",
+          "thumbnail_url": "https://i.ytimg.com/vi/HYjpwprsIXM/maxresdefault.jpg",
+          "duration_seconds": 1570,
+          "view_count": 4104,
+          "like_count": 76,
+          "comment_count": 4,
+          "engagement_rate": 1.95,
+          "publish_date": "2024-02-08T05:39:35Z"
         }
       ]
     },
@@ -373,17 +312,6 @@
       "channel_id": "UC_K4nYZ3cm35xa3u2BWFPiw",
       "is_own_channel": false,
       "videos": [
-        {
-          "video_id": "5WEO4iHlAx8",
-          "title": "6 เทคนิคเตรียมตัวสอบ IC ให้ผ่าน (ติวสอบ IC Plain) + membership",
-          "thumbnail_url": "https://i.ytimg.com/vi/5WEO4iHlAx8/maxresdefault.jpg",
-          "duration_seconds": 512,
-          "view_count": 3775,
-          "like_count": 58,
-          "comment_count": 7,
-          "engagement_rate": 1.72,
-          "publish_date": "2022-05-18T14:13:03Z"
-        },
         {
           "video_id": "CwXghlGNGFs",
           "title": "5 สาเหตุที่หลายคนสอบ IC ไม่ผ่านสักที(ติวสอบ IC Plain) + membership",
@@ -394,6 +322,17 @@
           "comment_count": 0,
           "engagement_rate": 1.68,
           "publish_date": "2022-05-18T13:56:06Z"
+        },
+        {
+          "video_id": "5WEO4iHlAx8",
+          "title": "6 เทคนิคเตรียมตัวสอบ IC ให้ผ่าน (ติวสอบ IC Plain) + membership",
+          "thumbnail_url": "https://i.ytimg.com/vi/5WEO4iHlAx8/maxresdefault.jpg",
+          "duration_seconds": 512,
+          "view_count": 3775,
+          "like_count": 58,
+          "comment_count": 7,
+          "engagement_rate": 1.72,
+          "publish_date": "2022-05-18T14:13:03Z"
         },
         {
           "video_id": "n6LiXJ712uE",
@@ -429,29 +368,11 @@
           "title": "สอบ IC ให้ผ่านภายในครั้งเดียว พร้อมแนวข้อสอบ (เวลาน้อย)",
           "thumbnail_url": "https://i.ytimg.com/vi/SV1hNSEMvkc/maxresdefault.jpg",
           "duration_seconds": 355,
-          "view_count": 10749,
+          "view_count": 10766,
           "like_count": 429,
           "comment_count": 32,
-          "engagement_rate": 4.29,
+          "engagement_rate": 4.28,
           "publish_date": "2024-09-24T00:00:15Z"
-        }
-      ]
-    },
-    {
-      "channel_name": "ร้านหนังสือสําหรับสอบ License โดยพ่อบ้านนักลงทุน License",
-      "channel_id": "UCeC6X1fLZkEGVmqgsC7Q60A",
-      "is_own_channel": false,
-      "videos": [
-        {
-          "video_id": "j9z3MDkDLCM",
-          "title": "👉 How to สอบ IC รอบเดียวผ่าน ทำได้จริง  #iclicense #derivative #icplain",
-          "thumbnail_url": "https://i.ytimg.com/vi/j9z3MDkDLCM/maxresdefault.jpg",
-          "duration_seconds": 101,
-          "view_count": 5521,
-          "like_count": 6,
-          "comment_count": 0,
-          "engagement_rate": 0.11,
-          "publish_date": "2025-01-13T07:24:25Z"
         }
       ]
     },
@@ -465,29 +386,11 @@
           "title": "สอบIC Plainผ่านแต่ไม่อยากขายประกัน #ที่ปรึกษาการลงทุน #การเงิน #การเงินการลงทุน #การเงินส่วนบุคคล",
           "thumbnail_url": "https://i.ytimg.com/vi/mJcndKOivLY/maxresdefault.jpg",
           "duration_seconds": 61,
-          "view_count": 4818,
-          "like_count": 134,
+          "view_count": 4828,
+          "like_count": 135,
           "comment_count": 4,
-          "engagement_rate": 2.86,
+          "engagement_rate": 2.88,
           "publish_date": "2024-12-02T10:51:06Z"
-        }
-      ]
-    },
-    {
-      "channel_name": "2noobs",
-      "channel_id": "UCAfJOwrRXXVshfHZhp2YIsw",
-      "is_own_channel": false,
-      "videos": [
-        {
-          "video_id": "CMn-bnrkK0o",
-          "title": "สรุปอัปเดตใหญ่ FFT 1.5 มี New Game+ แล้ว! ยกระดับตำนานให้เล่นฟินกว่าเดิม",
-          "thumbnail_url": "https://i.ytimg.com/vi/CMn-bnrkK0o/maxresdefault.jpg",
-          "duration_seconds": 562,
-          "view_count": 3773,
-          "like_count": 61,
-          "comment_count": 15,
-          "engagement_rate": 2.01,
-          "publish_date": "2026-06-18T01:01:04Z"
         }
       ]
     },
@@ -501,10 +404,10 @@
           "title": "EP. 148 สอบ IC ยังไงให้ครั้งเดียวผ่าน",
           "thumbnail_url": "https://i.ytimg.com/vi/8vEzg-K03dg/maxresdefault.jpg",
           "duration_seconds": 547,
-          "view_count": 3714,
+          "view_count": 3729,
           "like_count": 82,
           "comment_count": 14,
-          "engagement_rate": 2.58,
+          "engagement_rate": 2.57,
           "publish_date": "2025-04-06T10:30:05Z"
         }
       ]
@@ -519,10 +422,10 @@
           "title": "เตรียมตัวสอบ IC ต้องทำอย่างไรบ้าง? วันนี้ #financialacademy มีทริคดีๆมาแชร์กันค่า #shorts #การเงิน",
           "thumbnail_url": "https://i.ytimg.com/vi/tLRlOaovWvI/maxresdefault.jpg",
           "duration_seconds": 60,
-          "view_count": 2675,
+          "view_count": 2691,
           "like_count": 62,
           "comment_count": 1,
-          "engagement_rate": 2.36,
+          "engagement_rate": 2.34,
           "publish_date": "2024-11-09T15:50:13Z"
         }
       ]
@@ -537,7 +440,7 @@
           "title": "EP.1 แนะนำการเตรียมสอบ IC Plain (Part 1 / 2 )",
           "thumbnail_url": "https://i.ytimg.com/vi/U2M9yROR9NY/maxresdefault.jpg",
           "duration_seconds": 374,
-          "view_count": 2475,
+          "view_count": 2476,
           "like_count": 54,
           "comment_count": 6,
           "engagement_rate": 2.42,
@@ -555,7 +458,7 @@
           "title": "แชร์ประสบการณ์สอบ IC P1, P2, P3 ครั้งเดียวผ่านหมดภายใน 1 เดือน ทำยังไง?",
           "thumbnail_url": "https://i.ytimg.com/vi/b-dTcadKVGY/maxresdefault.jpg",
           "duration_seconds": 1351,
-          "view_count": 1949,
+          "view_count": 1953,
           "like_count": 44,
           "comment_count": 2,
           "engagement_rate": 2.36,
@@ -573,11 +476,29 @@
           "title": "สอบ IC License รอบเดียวผ่าน! เทคนิคจริงที่คนสอบติดใช้กัน",
           "thumbnail_url": "https://i.ytimg.com/vi/eZc62aHQD9E/maxresdefault.jpg",
           "duration_seconds": 920,
-          "view_count": 1535,
-          "like_count": 48,
+          "view_count": 1537,
+          "like_count": 49,
           "comment_count": 7,
-          "engagement_rate": 3.58,
+          "engagement_rate": 3.64,
           "publish_date": "2025-07-19T02:00:06Z"
+        }
+      ]
+    },
+    {
+      "channel_name": "Smart_Money888",
+      "channel_id": "UCLOAG80Bwf3FLJGJSQpem7Q",
+      "is_own_channel": false,
+      "videos": [
+        {
+          "video_id": "js6LXoLTJ2g",
+          "title": "รีวิว เนื้อหาเตรียมสอบ IC plain หมวด 2 กฎระเบียบและจรรยาบรรณบังคับผ่าน",
+          "thumbnail_url": "https://i.ytimg.com/vi/js6LXoLTJ2g/hqdefault.jpg",
+          "duration_seconds": 3709,
+          "view_count": 1112,
+          "like_count": 23,
+          "comment_count": 2,
+          "engagement_rate": 2.25,
+          "publish_date": "2024-07-21T08:46:06Z"
         }
       ]
     },
@@ -591,7 +512,7 @@
           "title": "หมูน้อยพาไปสอบ EP.1 | วิธีการสมัครสอบ IC แบบออนไลน์",
           "thumbnail_url": "https://i.ytimg.com/vi/uJHCjswPDa8/maxresdefault.jpg",
           "duration_seconds": 219,
-          "view_count": 1087,
+          "view_count": 1088,
           "like_count": 33,
           "comment_count": 12,
           "engagement_rate": 4.14,
@@ -609,34 +530,44 @@
           "title": "เรื่องที่ต้องรู้ก่อนสอบ IC License Plain Product (P1: Paper 1)",
           "thumbnail_url": "https://i.ytimg.com/vi/76QFLxz-Kx0/maxresdefault.jpg",
           "duration_seconds": 478,
-          "view_count": 285,
+          "view_count": 286,
           "like_count": 7,
           "comment_count": 1,
-          "engagement_rate": 2.81,
+          "engagement_rate": 2.8,
           "publish_date": "2022-05-04T10:16:32Z"
-        }
-      ]
-    },
-    {
-      "channel_name": "PLA ACADEMY | Thai Study Buddy",
-      "channel_id": "UCtTD069k4v4IAHpf708ykeQ",
-      "is_own_channel": false,
-      "videos": [
-        {
-          "video_id": "IqIaOxJjlr8",
-          "title": "8.1 การเคลื่อนที่แบบฮาร์มอนิกอย่างง่าย| ฟิสิกส์ ม.5 เทอม 1 | ฟิสิกส์ ม.ปลาย",
-          "thumbnail_url": "https://i.ytimg.com/vi/IqIaOxJjlr8/maxresdefault.jpg",
-          "duration_seconds": 2396,
-          "view_count": 23,
-          "like_count": 3,
-          "comment_count": 0,
-          "engagement_rate": 13.04,
-          "publish_date": "2026-06-17T04:10:14Z"
         }
       ]
     }
   ],
   "new_videos": [
+    {
+      "video_id": "vVs1sJ-TpXw",
+      "title": "AI ช่วยผมสอบ IC ผ่านในสองรอบ #เรียนรู้เอง #selfimprovement",
+      "thumbnail_url": "https://i.ytimg.com/vi/vVs1sJ-TpXw/maxresdefault.jpg",
+      "duration_seconds": 103,
+      "view_count": 869,
+      "like_count": 10,
+      "comment_count": 0,
+      "engagement_rate": 1.15,
+      "publish_date": "2026-06-20T13:23:02Z",
+      "channel_id": "UCX_5wcLcU_VylWYEY-reQFQ",
+      "channel_name": "ข้อสอบ IC Investment License",
+      "video_url": "https://www.youtube.com/watch?v=vVs1sJ-TpXw"
+    },
+    {
+      "video_id": "qUofBBXRAMA",
+      "title": "ติวสอบ IC : วิธีหาผลตอบแทนจากการลงทุน",
+      "thumbnail_url": "https://i.ytimg.com/vi/qUofBBXRAMA/maxresdefault.jpg",
+      "duration_seconds": 243,
+      "view_count": 4,
+      "like_count": 1,
+      "comment_count": 0,
+      "engagement_rate": 25.0,
+      "publish_date": "2026-06-20T06:00:19Z",
+      "channel_id": "UC9UCdtEHLvk7fNaX05oSvpw",
+      "channel_name": "เกลาหุ้น",
+      "video_url": "https://www.youtube.com/watch?v=qUofBBXRAMA"
+    },
     {
       "video_id": "snsBCEwH1rU",
       "title": "พี่ช้าง Nineplanner 8 เตรียมตัวสอบ IC Plain ยังไงบ้าง ไปชมกัน",
@@ -656,7 +587,7 @@
       "title": "เลิกเสียเงินสอบ IC หลายรอบ",
       "thumbnail_url": "https://i.ytimg.com/vi/yrF-2kL8VHI/maxresdefault.jpg",
       "duration_seconds": 80,
-      "view_count": 887,
+      "view_count": 890,
       "like_count": 11,
       "comment_count": 1,
       "engagement_rate": 1.35,
@@ -670,10 +601,10 @@
       "title": "ติวสอบ IC : ข้อสอบให้หาสัดส่วนการลงทุน",
       "thumbnail_url": "https://i.ytimg.com/vi/0LGsv--ZSU8/hqdefault.jpg",
       "duration_seconds": 406,
-      "view_count": 11,
-      "like_count": 0,
+      "view_count": 16,
+      "like_count": 1,
       "comment_count": 0,
-      "engagement_rate": 0.0,
+      "engagement_rate": 6.25,
       "publish_date": "2026-06-13T15:32:32Z",
       "channel_id": "UC9UCdtEHLvk7fNaX05oSvpw",
       "channel_name": "เกลาหุ้น",
@@ -684,10 +615,10 @@
       "title": "IC สามารถสอบผ่านได้ใน 1 เดือน",
       "thumbnail_url": "https://i.ytimg.com/vi/QOYmMI0lPh0/maxresdefault.jpg",
       "duration_seconds": 100,
-      "view_count": 1047,
+      "view_count": 1051,
       "like_count": 21,
       "comment_count": 1,
-      "engagement_rate": 2.1,
+      "engagement_rate": 2.09,
       "publish_date": "2026-06-13T04:55:52Z",
       "channel_id": "UCX_5wcLcU_VylWYEY-reQFQ",
       "channel_name": "ข้อสอบ IC Investment License",
@@ -712,10 +643,10 @@
       "title": "โจทย์ IC 2026",
       "thumbnail_url": "https://i.ytimg.com/vi/lYeObExtmj8/maxresdefault.jpg",
       "duration_seconds": 111,
-      "view_count": 175,
-      "like_count": 0,
+      "view_count": 176,
+      "like_count": 1,
       "comment_count": 1,
-      "engagement_rate": 0.57,
+      "engagement_rate": 1.14,
       "publish_date": "2026-06-12T11:54:07Z",
       "channel_id": "UCX_5wcLcU_VylWYEY-reQFQ",
       "channel_name": "ข้อสอบ IC Investment License",
@@ -726,10 +657,10 @@
       "title": "สอบ IC ให้ผ่านในรอบเดียว",
       "thumbnail_url": "https://i.ytimg.com/vi/lg-Zpdz2-WI/maxresdefault.jpg",
       "duration_seconds": 83,
-      "view_count": 245,
+      "view_count": 248,
       "like_count": 2,
       "comment_count": 1,
-      "engagement_rate": 1.22,
+      "engagement_rate": 1.21,
       "publish_date": "2026-05-24T15:04:24Z",
       "channel_id": "UCX_5wcLcU_VylWYEY-reQFQ",
       "channel_name": "ข้อสอบ IC Investment License",
@@ -740,10 +671,10 @@
       "title": "ข้อสอบ IC Plain P1 ทำโจทย์เยอะๆดีกว่าไปเสียค่าสอบหลายรอบ  #ประกัน #ลงทุน #ic",
       "thumbnail_url": "https://i.ytimg.com/vi/nqQggunUhnY/maxresdefault.jpg",
       "duration_seconds": 60,
-      "view_count": 163,
+      "view_count": 165,
       "like_count": 3,
       "comment_count": 2,
-      "engagement_rate": 3.07,
+      "engagement_rate": 3.03,
       "publish_date": "2026-05-23T14:31:15Z",
       "channel_id": "UCX_5wcLcU_VylWYEY-reQFQ",
       "channel_name": "ข้อสอบ IC Investment License",
@@ -754,10 +685,10 @@
       "title": "IC License คืออะไร? แล้ว P1 P2 P3 ต่างกันยังไง? สรุปให้เข้าใจในคลิปเดียว",
       "thumbnail_url": "https://i.ytimg.com/vi/M8TTSqPo4b0/maxresdefault.jpg",
       "duration_seconds": 95,
-      "view_count": 908,
+      "view_count": 921,
       "like_count": 15,
       "comment_count": 0,
-      "engagement_rate": 1.65,
+      "engagement_rate": 1.63,
       "publish_date": "2026-04-23T04:31:43Z",
       "channel_id": "UC-QGsm2mc9QW_JthGDf3nLg",
       "channel_name": "สถาบันฝึกอบรม สมาคมบริษัทหลักทรัพย์ไทย (ATI)",
@@ -768,10 +699,10 @@
       "title": "ติวระบบ GFMIS ระบบจัดซื้อจัดจ้าง สำหรับสอบ e-CPP มาตราฐานวิชาชีพพัสดุ หลักสูตร FC ระดับต้น",
       "thumbnail_url": "https://i.ytimg.com/vi/nXxXf3H6WLo/maxresdefault.jpg",
       "duration_seconds": 878,
-      "view_count": 215,
+      "view_count": 216,
       "like_count": 3,
       "comment_count": 0,
-      "engagement_rate": 1.4,
+      "engagement_rate": 1.39,
       "publish_date": "2026-04-20T04:05:34Z",
       "channel_id": "UCEzK_TCYZUtEYApSgOwWoYQ",
       "channel_name": "TAM nopmanie",
@@ -782,7 +713,7 @@
       "title": "[TAT Talk] ผ่านกองทุนเร็วขึ้น3เท่า ด้วยหลักคณิตศาสตร์",
       "thumbnail_url": "https://i.ytimg.com/vi/Enc4rhnRTSs/maxresdefault.jpg",
       "duration_seconds": 1634,
-      "view_count": 5165,
+      "view_count": 5169,
       "like_count": 276,
       "comment_count": 20,
       "engagement_rate": 5.73,
@@ -820,20 +751,6 @@
       "video_url": "https://www.youtube.com/watch?v=1G7ahrExuHg"
     },
     {
-      "video_id": "lmY_4EyRMJE",
-      "title": "ทำความรู้จัก 2StepPro ของกองทุน FundingPips สอบผ่านได้ภายในวันเดียว",
-      "thumbnail_url": "https://i.ytimg.com/vi/lmY_4EyRMJE/maxresdefault.jpg",
-      "duration_seconds": 522,
-      "view_count": 4332,
-      "like_count": 165,
-      "comment_count": 53,
-      "engagement_rate": 5.03,
-      "publish_date": "2026-03-14T04:29:38Z",
-      "channel_id": "UCZIqclzOHvK63J9X_ygep2Q",
-      "channel_name": "Tron Funded Trader",
-      "video_url": "https://www.youtube.com/watch?v=lmY_4EyRMJE"
-    },
-    {
       "video_id": "oplG1Ognycs",
       "title": "สรุป 6 เกณฑ์ใหม่ ก.ล.ต. ยกเครื่อง IC/FA อิสระ: เมื่อค่าคอมฯ ไม่ใช่คำตอบสุดท้าย!",
       "thumbnail_url": "https://i.ytimg.com/vi/oplG1Ognycs/hqdefault.jpg",
@@ -846,20 +763,6 @@
       "channel_id": "UCmYegJYPhdNMTgdIUpvF9Wg",
       "channel_name": "การงง การเงิน ",
       "video_url": "https://www.youtube.com/watch?v=oplG1Ognycs"
-    },
-    {
-      "video_id": "1OWV2j0NrdA",
-      "title": "สอบกองทุน FTMO พอร์ต $100,000 ผ่านทั้งสองเฟสได้อย่างไร ด้วย 11 Daytrading",
-      "thumbnail_url": "https://i.ytimg.com/vi/1OWV2j0NrdA/maxresdefault.jpg",
-      "duration_seconds": 827,
-      "view_count": 8912,
-      "like_count": 284,
-      "comment_count": 76,
-      "engagement_rate": 4.04,
-      "publish_date": "2026-02-08T05:15:57Z",
-      "channel_id": "UCZIqclzOHvK63J9X_ygep2Q",
-      "channel_name": "Tron Funded Trader",
-      "video_url": "https://www.youtube.com/watch?v=1OWV2j0NrdA"
     },
     {
       "video_id": "Q7O4EpfQkmI",
@@ -880,7 +783,7 @@
       "title": "อธิบายตัวอย่างข้อสอบ IC Plain หัวข้อ 1.1 (ติวสอบ IC Plain)",
       "thumbnail_url": "https://i.ytimg.com/vi/P8psS_Ycjsc/maxresdefault.jpg",
       "duration_seconds": 891,
-      "view_count": 1229,
+      "view_count": 1230,
       "like_count": 10,
       "comment_count": 14,
       "engagement_rate": 1.95,
@@ -894,7 +797,7 @@
       "title": "อยากเป็น IC หรือ IP ต้องเริ่มจากตรงไหน? 🎯",
       "thumbnail_url": "https://i.ytimg.com/vi/0vDlW7dFCoE/maxresdefault.jpg",
       "duration_seconds": 83,
-      "view_count": 75184,
+      "view_count": 75188,
       "like_count": 259,
       "comment_count": 5,
       "engagement_rate": 0.35,
@@ -908,10 +811,10 @@
       "title": "แจกแนวข้อสอบจริง #มาตรฐานวิชาชีพพัสดุ #หลักสูตรระดับต้น fc สอบพัสดุ e-CPP",
       "thumbnail_url": "https://i.ytimg.com/vi/YJvio0UCd3c/hqdefault.jpg",
       "duration_seconds": 1202,
-      "view_count": 4010,
+      "view_count": 4012,
       "like_count": 40,
-      "comment_count": 7,
-      "engagement_rate": 1.17,
+      "comment_count": 8,
+      "engagement_rate": 1.2,
       "publish_date": "2025-07-29T09:22:56Z",
       "channel_id": "UCEzK_TCYZUtEYApSgOwWoYQ",
       "channel_name": "TAM nopmanie",
@@ -922,723 +825,85 @@
     {
       "type": "title_pattern",
       "icon": "🏆",
-      "tip": "Videos with \"หมวด\" in the title average 1.9x more views than the niche average",
-      "evidence": "Avg views with keyword: 44,014 vs. overall avg: 23,736"
+      "tip": "Videos with \"หมวด\" in the title average 1.8x more views than the niche average",
+      "evidence": "Avg views with keyword: 37,316 vs. overall avg: 20,503"
     },
     {
       "type": "timing",
       "icon": "📅",
-      "tip": "Videos posted on Tuesday average the highest views in this niche",
-      "evidence": "Avg views on Tuesday: 38,003 (based on 4 videos)"
+      "tip": "Videos posted on Thursday average the highest views in this niche",
+      "evidence": "Avg views on Thursday: 28,150 (based on 5 videos)"
     },
     {
       "type": "engagement",
       "icon": "🔥",
-      "tip": "PLA ACADEMY | Thai Study Buddy drives the most audience interaction — study their format and CTA style",
-      "evidence": "Avg engagement rate: 13.04% (likes + comments ÷ views)"
+      "tip": "Film Growth Journey  drives the most audience interaction — study their format and CTA style",
+      "evidence": "Avg engagement rate: 4.28% (likes + comments ÷ views)"
     },
     {
       "type": "content_gap",
       "icon": "🎯",
       "tip": "Top search results use \"สรุป\" frequently — your recent videos don't",
-      "evidence": "Missing keywords from your titles: สรุป, หมวด, plain, EP"
+      "evidence": "Missing keywords from your titles: สรุป, ผ่าน, เทคนิค, แนวข้อสอบ"
     },
     {
       "type": "video_length",
       "icon": "⏱",
-      "tip": "Top-performing videos average 84m — longer than lower-performing ones (15m)",
-      "evidence": "Top 20% avg length: 84m | Bottom 50% avg length: 15m"
+      "tip": "Top-performing videos average 42m — longer than lower-performing ones (14m)",
+      "evidence": "Top 20% avg length: 42m | Bottom 50% avg length: 14m"
     }
   ],
   "audience_questions": [
-    {
-      "text": "รวม “ดาวส้ม” อย่างตึงครับจารย์ l WEREWOLF ถกไม่เถียง EP.13\r<br>\r<br><a href=\"https://www.youtube.com/watch?v=27KssfNKg0U&amp;t=2808\">https://www.youtube.com/watch?v=27KssfNKg0U&amp;t=2808s</a>",
-      "likes": 2,
-      "is_question": true,
-      "published_at": "2026-06-18T05:37:59Z",
-      "age_days": 1,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "นักการเมืองถ้าคำสาบานเป็นจิงไครโกงแล้วตายตายจิงๆ คงจะเหลือไม่กี่คน",
-      "likes": 6,
-      "is_question": true,
-      "published_at": "2026-06-17T00:16:58Z",
-      "age_days": 2,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "เช่าเอไอต่างชาติมาแจกคนไทยใช้ 1ปี ใช้งบ 1600ล้าน หลังจากนั้นก็ไม่มีอะไรเป็นรูปธรรมเลย<br><br>ไทยเรามีซุปเปอร์คอมพิวเตอร์ที่รัน model ai ได้ และใช้งานเอนกประสงค์ชื่อว่าเครื่อง LANTA ใช้งบ 600ล้าน เป็นเครื่องที่เร็วที่สุดในอาเซียน<br><br>ถ้าเอางบ 1600ล้านซื้อ ซุปเปอร์คอมพิวเตอร์จะได้เครื่องทึ่แรงกว่า LANTA หลายเท่า ซื้อแล้วคงอยู่ตลอด<br>เอามารันโมเดล ai จะรันตัวที่ฉลาดที่สุดก็ได้ จะรันกี่โมเดลก็ได้ เพราะเครื่องมันรับได้หมด แล้วโมเดลเอไอก็เป็น open source ไม่ต้องซื้อ<br>และไม่ต้องจ่ายค่าบริการให้ต่างชาติ จ่ายเฉพาะค่าไฟฟ้า กับค่า จนท ดูแลระบบ แล้วใช้ได้ไปตลอด<br>แล้วซุปเปอร์คอมพิวเตอร์ที่แรงขนาดนี้รองรับคนได้ทั้งประเทศ ไม่ใช่เฉพาะ 5ล้านคน",
-      "likes": 41,
-      "is_question": true,
-      "published_at": "2026-06-16T12:56:39Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ปัญหา Corruptions ที่แก้ไม่ได้ เพราะคนส่วนใหญ่มันไม่เข้าใจโครงสร้างการเมืองที่ออกแบบโดยเผด็จการ ที่มีวิธีการพื้นฐานทำให้สังคม นิยมชมชอบของฟรี จากภาษี [เงินของตัวเอง] ประชาชน วัดครึ่งหนึ่งกรรมการครึ่งหนึ่ง ประชาชนเอาแค่เศษๆของผลประโยชน์ไป อะไรที่มีของฟรีให้ใช้ประหยัดเงินของชาติ มันจะไม่พูดถึง เผด็จการมันจะได้ผลประโยชน์ทุกเม็ด เมื่อมีการเอาเงินภาษีประชาชนออกมาใช้จ่าย วันนี้ทุกคนกำลังเผชิญหน้ากับ การเมืองสีเทา ทุนเทา และรัฐเผด็จการ จะทำอย่างไร",
-      "likes": 6,
-      "is_question": true,
-      "published_at": "2026-06-16T22:15:33Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
     {
       "text": "สอบถามปัจจุบันคับ ตอนนี้ข้อมูลนี้ยังใช่ได้ยุไหมคับ พอดีผมกำลังเตรียมตัวสอบic plain",
       "likes": 0,
       "is_question": true,
       "published_at": "2026-06-16T02:19:07Z",
-      "age_days": 3,
+      "age_days": 4,
       "video_id": "y5I7HqXqtC8",
       "video_title": "IC Plain หมวดที่ 1 บทที่ 1 : Smart Wealth อ.ยีน EP.2",
       "channel_name": "Gene Panupong",
       "video_url": "https://www.youtube.com/watch?v=y5I7HqXqtC8"
-    },
-    {
-      "text": "<a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=10094\">2:48:14</a> หมอเลือกรักษาคนได้ เป็นเรื่องจริงครับ แต่ขอเสริมหน่อยว่าไม่ใช่ว่าหมอทำเพราะหมอไม่มีจรรยาบรรณหรือหมอเป็นคนไม่ดีนะครับ แต่เราต้องดูความเป็นจริงว่าเราไม่สามารถรักษาทุกคนเป็น priority เดียวกันได้ บางกรณีต้องดูความฉุกเฉิน ความคุ้มค่าในเชิงทรัพยากรและงบ บางกรณีต้องดูแนวโน้มการดำเนินโรค(prognosis) ว่ารักษาแล้วโอกาสหายมากน้อยแค่ไหน ซึ่งพวกนี้มันมีเป็น guideline เลยครับ สรุปคือความเป็นจริงไม่ได้สวยงาม เราไม่สามารถ prioritize ทุกคนพร้อมๆกันได้ครับ<br>ส่วนเรื่องงบสาธารณสุขไม่พอ พี่บิ๊กพูดถูกเลยครับ เราควรจะไปโฟกัสระบบที่จัดการงบได้เลว มากกว่าตีกันเองไปแล้งไม่ได้อะไรขึ้นมาครับ",
-      "likes": 3,
-      "is_question": true,
-      "published_at": "2026-06-15T06:20:30Z",
-      "age_days": 4,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "พี่บ่วงขายไฟเบอร์ใช่ไหม ผมแนะนำ ไข่ผำครับ กินน้อยแต่ได้มาก ไม่ต้องฝืนครับ แถมกินง่าย แนะนำครับผม",
-      "likes": 0,
-      "is_question": true,
-      "published_at": "2026-06-15T07:14:28Z",
-      "age_days": 4,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "เรื่องลูกมันพลาดไปแล้ว จะมาบอกว่าแก้ปัญหาด้วยวิธีไม่มีเซ็กมันไม่ได้นะ <br><br>และถ้าเรารู้ว่ามีปัญหาในการเลี้ยงลูกแน่ๆ เรายังสามารถป้องกันปัญหาว่าเลี้ยงลูกไม่ไหวที่จะเกิดขึ้นในอนาคตได้นะครับ <br>อนาคตของเด็กคนนึงมันไม่ควรจะต้องเสี่ยงกับคนเฮงซวย 2 คนที่เซ็กกันสนุกจะปรับปรุงตัวได้ไหมนะ ถ้าไม่ได้คุณก็สร้างขยะสังคมเพิ่มมาอีก 🙄 <br>แล้วถ้าเขายากจนขนาดไม่มีเงินซื้อนมผงให้ลูก เด็กโตมาขาดสารอาหาร ก็ไม่มีใครไปช่วยจ่ายค่านม ค่าอาหาร ค่าผ้าอ้อม เลี้ยงดูบุตรให้หรอก มีแต่จะสมน้ำหน้ามากกว่า<br> <br>การตั้งครรภ์มีความเสี่ยงมากมายกว่าลูกจะคลอด ครรภ์เป็นพิษ มดลูกแตก เลือกออกไม่หยุดหลังคลอด คลอดก่อนกำหนด(อันตรายทั้งกับเด็กและแม่ และยังมีปัญหาค่ารักษาพยาบาลหลังคลอดอีก) ยิ่งในรายที่แม่มีความกดดันสูง ปัญหายาเสพติด  หลังคลอดก็มีปัญหาด้านจิตได้(postpartum blue) ด้วยเหตุที่ความเสี่ยงทั้งหมดที่กล่าวมาผมว่ามันก็สมควรที่จะให้ฝ่ายหญิงเป็นคนตัดสินใจว่าจะทำยังไง",
-      "likes": 1,
-      "is_question": true,
-      "published_at": "2026-06-14T22:49:07Z",
-      "age_days": 5,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "<a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=8996\">2:29:56</a> โอ้มายยยยก๊อดดด โบร๋<br>หมดคำจะพูดด พูดไปก็เหนื่อยฟรี <br>ตัวใครตัวมันจริง กำตังไว้เยอะๆพอ😂",
-      "likes": 1,
-      "is_question": true,
-      "published_at": "2026-06-12T07:58:06Z",
-      "age_days": 7,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "ปีนมาสิบปีแล้ว. พลาดmcl(เอ็นข้างเข่า)ฉีก เพราะตกผิดท่า.   <br>ยังไงก็ระวังนะคะเลือกรูทเล่นด้วย.     😅",
-      "likes": 1,
-      "is_question": true,
-      "published_at": "2026-06-12T15:04:59Z",
-      "age_days": 7,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "<a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=4362\">1:12:42</a> เหตุผลพี่บ่วงมันก่อนเลือกตั้งไงครับ คนมันมีหวัง พอหลังเลือกตั้งผมว่าคนหมดหวังกันเยอะเลย",
-      "likes": 1,
-      "is_question": true,
-      "published_at": "2026-06-12T20:29:49Z",
-      "age_days": 7,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "<a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=3263\">54:23</a>  วิถีจอมมาร 😂",
-      "likes": 5,
-      "is_question": true,
-      "published_at": "2026-06-11T05:01:02Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "<a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=7161\">1:59:21</a> ฉากพี่บิ๊กสารภาพรักพี่บ่วง😂",
-      "likes": 2,
-      "is_question": true,
-      "published_at": "2026-06-11T22:26:53Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "<a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=16047\">4:27:27</a> คาดหวังนะ ขอเล่นกันยาวๆเลยครับพี่ชายใหญ่😊",
-      "likes": 1,
-      "is_question": true,
-      "published_at": "2026-06-11T07:37:11Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "<a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=14092\">3:54:52</a>   พรี่บิ๊กเถียงได้ฟีลมาก  😂😂",
-      "likes": 1,
-      "is_question": true,
-      "published_at": "2026-06-11T10:55:45Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "<a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=1\">00:01</a> - เปิดรายการ / พี่บ่วงตัดผม<br><a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=651\">10:51</a> - kegel exercise<br><a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=964\">16:04</a> - พี่บิ๊กเลิกบุหรี่ + พี่บ่วงปีนเขา<br><a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=1440\">24:00</a> - ตัดต้นไม้ คนเมืองกับคนใช้แรงงาน<br><a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=2154\">35:54</a> - แฟ้มลับโอตะตัวปลอม<br><a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=2559\">42:39</a> - แม่พลอยเตือนภัย ลูกโดนมิจฉาชีพหลอกในเกม Roblox<br><a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=3850\">1:04:10</a> - หัวข้อ : ตัวใครตัวมันไอ้สาส<br><a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=4010\">1:06:50</a> - การรับฟังความคิดเห็นต่อร่าง พ.ร.บ. ตามมาตรา 77 ของรัฐรรรมนูญ<br><a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=4436\">1:13:56</a> - ดราม่าไทยช่วยไทย + <br><a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=5470\">1:31:10</a> - bigboung ตีราคาตัวเอง<br><a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=5890\">1:38:10</a> - นิสัยการผ่อนของคนยุคใหม่<br><a href=\"https://www.youtube.com/watch?v=hthtfafU12Y&amp;t=6845\">1:54:05</a> - เด็กรุ่นใหม่เหมือนสิ้นโอกาสในการลงทุน<br>(ต่อในคอมเมนท์)",
-      "likes": 135,
-      "is_question": true,
-      "published_at": "2026-06-10T16:36:27Z",
-      "age_days": 9,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
     },
     {
       "text": "เนื้อหาสามารถใช้สอบปี 2569 ได้ไหมคะ",
       "likes": 1,
       "is_question": true,
       "published_at": "2026-03-29T16:10:03Z",
-      "age_days": 82,
+      "age_days": 83,
       "video_id": "y5I7HqXqtC8",
       "video_title": "IC Plain หมวดที่ 1 บทที่ 1 : Smart Wealth อ.ยีน EP.2",
       "channel_name": "Gene Panupong",
       "video_url": "https://www.youtube.com/watch?v=y5I7HqXqtC8"
     },
     {
-      "text": "✌️✌️✌️✌️✌️ครับคุณไอซ์  รักชนก ศรีนอกครับ",
-      "likes": 5,
-      "is_question": false,
-      "published_at": "2026-06-17T03:38:13Z",
-      "age_days": 2,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ขอบคุณสำหรับข้อมูลนะคะ พรรคประชาชน ข้อมูลแน่นมาก เป็นกำลังให้นะคะ   สู้ไปด้วยกันนะคะ",
-      "likes": 4,
-      "is_question": false,
-      "published_at": "2026-06-17T02:11:12Z",
-      "age_days": 2,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ผมรักพี่บ่วงครับ❤",
-      "likes": 0,
-      "is_question": false,
-      "published_at": "2026-06-17T00:09:56Z",
-      "age_days": 2,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "ตั้งแต่ มี สส ส้ม แดกยากขึ้นชิบหาย<br>นักการเมือง+ข้าราชการ รุ่นเก่า แอบบ่น😂😅",
-      "likes": 150,
-      "is_question": false,
-      "published_at": "2026-06-16T12:05:23Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ไอซ์สู้ฯ❤❤❤",
-      "likes": 77,
-      "is_question": false,
-      "published_at": "2026-06-16T12:21:56Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ไอซ์สู้ๆ",
-      "likes": 71,
-      "is_question": false,
-      "published_at": "2026-06-16T11:37:26Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "นางสุดยอดจริงๆ จะเลื กจบกว่าจะได้เอ่นนายก ส้ม❤",
-      "likes": 49,
-      "is_question": false,
-      "published_at": "2026-06-16T12:39:48Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "จะทำอะไรก็ทำไปสิ แต่เลิกคิดไปเลยเรื่องเงิน มันไม่ใช่น้อยไปเลย สิ่งที่คิดได้ดีกว่าก็ไม่ทำเสือกเอาคนเห็นแก่ตัวแถมยังโง่มาเป็นรัฐมนตรีอีกประเทศไทยเอ้ย",
-      "likes": 39,
-      "is_question": false,
-      "published_at": "2026-06-16T12:02:30Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "เอาใจช่วยส้มครับ",
-      "likes": 37,
-      "is_question": false,
-      "published_at": "2026-06-16T12:53:43Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "สส.รุ่นใหม่ ไม่สนใจส่วนแบ่งเลย แฉอย่างเดียว แบบนี้ก็หากินลำบากสิ",
-      "likes": 32,
-      "is_question": false,
-      "published_at": "2026-06-16T13:25:31Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ส้มสู้ๆๆๆๆๆ ไอซ์ลุยมันนนน",
-      "likes": 29,
-      "is_question": false,
-      "published_at": "2026-06-16T13:52:39Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ทั้ง2ท่าน คือ คุณภาพจริงๆ ขอบคุณ❤",
-      "likes": 26,
-      "is_question": false,
-      "published_at": "2026-06-16T14:12:28Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ถามแต่คนใช้ เหมือนล็อกเป้าโดยเฉพาะ ไม่คิดถึงการฮั้วเลย  555",
-      "likes": 15,
-      "is_question": false,
-      "published_at": "2026-06-16T12:27:50Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "เป็นกำลังใจให้คุณไอซ์ครับ",
-      "likes": 12,
-      "is_question": false,
-      "published_at": "2026-06-16T14:20:04Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ท่านปลัดถึงขั้นขู่ประชาชน😂",
-      "likes": 12,
-      "is_question": false,
-      "published_at": "2026-06-16T14:22:39Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "คุณรัชนก พูดถูกทุกข้อเห็นตรงเลย",
-      "likes": 10,
-      "is_question": false,
-      "published_at": "2026-06-16T23:03:00Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "หล้าหลังเหมือนเขากระโดงหรือไมท่านนายกฯ",
-      "likes": 10,
-      "is_question": false,
-      "published_at": "2026-06-16T12:24:29Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "เอา 1,600 ล้าน ไปซื้อเครื่องบินรบ A-10 Thunderbolt ได้ 10 กว่าลำ ถล่มรถถังเขมรได้ 5 กองร้อย ^^",
-      "likes": 10,
-      "is_question": false,
-      "published_at": "2026-06-16T13:25:41Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ขอบคุณพิธีกร และ สส ทั้งสองคนที่นำข้อมูลที่เป็นประโยชน์ต่อประเทศมาเผยแพร่  โดย สส พรรคอื่น แทบไม่ขยับอะไรเลย",
-      "likes": 9,
-      "is_question": false,
-      "published_at": "2026-06-16T16:11:55Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "คุณไอซ์เชิญ Microsoft เลยครับ ตี Microsoft เจ้าเดียวตายห่าหมดครับ",
-      "likes": 9,
-      "is_question": false,
-      "published_at": "2026-06-16T14:43:06Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "วันไหนจะเชิญคุณเทพไทมาอีกบ้าง อยากดูมากๆ",
-      "likes": 9,
-      "is_question": false,
-      "published_at": "2026-06-16T12:53:02Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ตามหารัฐมนตรีขิงฯ <br>หายเข้ากลีบเมฆ",
-      "likes": 8,
-      "is_question": false,
-      "published_at": "2026-06-16T15:29:57Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "โกงหน้าด้านๆแบบนี้ เราได้แต่ถอนหายใจ  ขนาดปูดออกขนาดนี้ยังเดินหน้าต่อ",
-      "likes": 7,
-      "is_question": false,
-      "published_at": "2026-06-16T15:29:33Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "คุณไอซ์อย่าร้อง เลย ป ปชของใคร ร้องไป ปปชก็ยกคำร้อง ฮ่าๆๆ",
-      "likes": 7,
-      "is_question": false,
-      "published_at": "2026-06-16T12:57:36Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ไอซ์สู้ๆ ไอ้สู้ตาย ไอ้ไว้ลาย ไอซ์สุดยอด",
-      "likes": 7,
-      "is_question": false,
-      "published_at": "2026-06-16T16:15:00Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ไม่ต้องเป็นถึงผู้เชี่ยวชาญด้านไอทีก็เข้าใจได้เลยว่าโครงการมันไม่คุ้มค่า เงินตั้ง1600ล้าน การประมูลไม่โปรงใส ได้ประโยชน์ไม่คุ้มเงิน1600ล้าน",
-      "likes": 6,
-      "is_question": false,
-      "published_at": "2026-06-16T15:42:47Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "เป็นกำลังวจไอซ์ อมกซ์พวกคุณสู้มากๆ อยากให้เรื่องนี้คนได้ดูพูดถึงเยอะๆ เพื่อที่จะได้ล้มเลิกโครงการที่เอื้อการโกงมากๆๆแบบนี้ ไม่เป็นประโยชน์ส่วนมากแบบนี้ น่าอึดอัดใจแทนพวกคุณที่ทำอะไรพวกนักการเมืองที่อั้วกันแบบนี้แต่ถ้าไม่ทีพวกคุณ หลายเรื่องโครงการพวกเราคงมืดบอดไม่มีใครจริงใจเพื่อจะทำให้การเมืองโปร่งใส ปลอดทุจริต",
-      "likes": 2,
-      "is_question": false,
-      "published_at": "2026-06-17T00:04:48Z",
-      "age_days": 3,
-      "video_id": "wLxjY95V9zY",
-      "video_title": "มหากาพย์ 1,600 ล้าน ! ฝ่ายค้านลากไส้ “TH-AI Passport” ส่อ “พิรุธ” บานตะไท #ถกไม่เถียง",
-      "channel_name": "terodigital",
-      "video_url": "https://www.youtube.com/watch?v=wLxjY95V9zY"
-    },
-    {
-      "text": "ผมคนนึงที่มีคุณตาเป็นอัลไซเมอร์ การจำกัดพื้นที่สำคัญมากครับ เพราะการป้องกันหรือระวังไม่ให้เขาหายไป เป็นเรื่องที่ที่ท้าทายมาก บางครั้งการใจร้ายมันก็เป็นสิ่งที่ต้องทำครับ",
-      "likes": 0,
-      "is_question": false,
-      "published_at": "2026-06-16T11:43:44Z",
-      "age_days": 3,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "การลงทุนที่บ่วงบอกว่าผิดหวังจาก Luna ก็เลยไปทางรูหลังใช่มั้ยครับ",
-      "likes": 0,
-      "is_question": false,
-      "published_at": "2026-06-16T02:54:21Z",
-      "age_days": 3,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "ผมถามน้องแพทย์จบใหม่เรื่องผ่อนรถ 30%เงินเดือน น้องต้องดูสภาพการเดินทางไป-กลับ อยู่บ้านพ่อ-แม่หรือป่าว ต้องจ่ายหรือช่วย คชจ.ในครอบครัวมั้ย ส่วนตัวผมมองว่าถ้าอยู่บ้านพ่อแม่ช่วยจ่ายค่าน้ำ-ไฟที่บ้านนิดหน่อย และพ่อแม่ยังไม่เกษียร(ฝากท้องและความหิวกับที่บ้านได้) ผมว่าผ่อนไหวนะถ้าซื้อมาแล้วไม่แต่เยอะ ต่อให้เงินเดือนเริ่ม 20k ต้น-กลาง แต่อย่าลืมแบ่ง 10%ของค่าผ่อนมาเก็บไว้เมนเทนรถด้วยล่ะ",
+      "text": "สุดยอดดด",
       "likes": 1,
       "is_question": false,
-      "published_at": "2026-06-13T03:07:48Z",
-      "age_days": 6,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
+      "published_at": "2026-06-09T00:49:40Z",
+      "age_days": 11,
+      "video_id": "SV1hNSEMvkc",
+      "video_title": "สอบ IC ให้ผ่านภายในครั้งเดียว พร้อมแนวข้อสอบ (เวลาน้อย)",
+      "channel_name": "Film Growth Journey ",
+      "video_url": "https://www.youtube.com/watch?v=SV1hNSEMvkc"
     },
     {
-      "text": "ปีนผายิมนั้นอยู่เหมือนกัน ชอบเพราะเหมือนเล่นเกมตามที่พี่บ่วงบอกเลย แรกๆซื้อแพ็คพาส5ครั้ง10ครั้งมาลองเล่นก่อนก็ดีครับ ช่วงแรกๆถ้ามาบ่อยๆจะเห็น progress ตัวเองชัดมาก ละได้กล้ามส่วนแปลกๆที่เข้ายิมปกติจะไม่มีด้วย",
+      "text": "ขอบคุณอาจารย์มากครับ สอบผ่านแล้วสดๆร้อนๆเมื่อวานนี้เลยครับ ครั้งเดียวผ่านเลย",
       "likes": 1,
       "is_question": false,
-      "published_at": "2026-06-12T15:37:54Z",
-      "age_days": 7,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "คลิป คอแร๊ป มาสเตอร์พีส ครับ สุดยอดคับ❤",
-      "likes": 1,
-      "is_question": false,
-      "published_at": "2026-06-12T13:10:18Z",
-      "age_days": 7,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "ถึงพี่บิ้ก รุ่นพี่ผมหักดิบบุหรี่ก่อนอายุ 35 ตอนนี้แก 39 40 เลิกมาได้ 5 ปีละ แกใช้ยาดมหรือสารระเหยหอมในการดมเพื่อช่วยขจัดความอยากในช่วงแรก และการใช้หมากฝรั่งในการเคี้ยว",
-      "likes": 1,
-      "is_question": false,
-      "published_at": "2026-06-12T08:30:38Z",
-      "age_days": 7,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "update จากวีคก่อน ผมหยุดบุหรี่มา 1 week ละครับ",
-      "likes": 167,
-      "is_question": false,
-      "published_at": "2026-06-11T01:21:35Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "เรื่องสปสชอย่างเห*้ยเลย วัคซีน IPDเด็ก แม่งยกเลิกไม่ให้เด็กฉีด แล้วโดนด่า กลับมาทำให้ แค่บางกลุ่ม ลำดับความสำคัญแ***ผิดไปหมด",
-      "likes": 8,
-      "is_question": false,
-      "published_at": "2026-06-11T01:05:20Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "ชอบ live นี้ เพาะเรื่องลงทุน กับเรื่องการเงิน ตอนนี้ผมดอยทอง 400k",
-      "likes": 3,
-      "is_question": false,
-      "published_at": "2026-06-11T02:32:17Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "ทรงผม y2k จัด",
-      "likes": 3,
-      "is_question": false,
-      "published_at": "2026-06-11T06:58:08Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "อยู่ๆก็กลายเป็นหม๋า บรู๋ววววว 🐕",
-      "likes": 3,
-      "is_question": false,
-      "published_at": "2026-06-11T01:23:28Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "อุ้มให้เกียรติตัวเองแต่อุ้มไ่ม่ให้เกียรติคนอื่น😂",
-      "likes": 2,
-      "is_question": false,
-      "published_at": "2026-06-11T08:06:14Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "ปีนผา ใช้กล้ามเนื้อหลัง กับนิ้ว",
-      "likes": 2,
-      "is_question": false,
-      "published_at": "2026-06-11T06:55:56Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "ตัดผมเองมาเกือบ10ปีแล้วมั้ง ตั้งแต่ร้านประจำเปลี่ยนช่างแล้วเป็นป้าคนนึง เรารู้ตัวว่าเป็นคนผมบางช่วงนั้นเริ่มร่วงเยอะป้าดันมาทักอีก หลังจากนั้นไม่เข้าร้านตัดผมอีกเลยตัดเองแม่ง ทุกวันนี้ก็โอเคกับผมตัวเองแต่หัวล้านจริงนะไม่โกรธๆ",
-      "likes": 2,
-      "is_question": false,
-      "published_at": "2026-06-11T09:43:50Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "เรื่องที่ว่ายกหนักขึ้นเร็วหรือว่าคนใช้แรงงานแรงเยอะกว่าอะไรพวกนี้คนจะเข้าใจผิดกันเยอะครับ กล้ามเนื้อเราไม่ได้พัฒนาเร็วขนาดนั้นที่ยกได้เพิ่มขึ้นเยอะในเวลาอันรวดเร็วเพราะว่าสมองและร่างกายเราได้รับการฝึกให้ยกน้ำหนักได้ efficient มากขึ้น พอเพิ่มน้ำหนักไปเรื่อยๆมันจะเริ่ม plateau แล้วหลังจากนั้นจะเพิ่มน้ำหนักได้ทีละนิดละหน่อยครับ เช่นเดียวกับเวลายกท่าแปลกๆหรือออกท่าแปลกๆ คนเล่นกล้ามไม่ได้แรงน้อยกว่าคนป่าคนเขา แค่สมองเค้ายังไม่ได้ฝึกให้ใช้ท่านั้นๆได้อย่างชำนาญแค่นั้นถ้าคิดว่าคนใช้แรงงานปกติแข็งแรงจริงก็ให้มาแข่ง deadlift แข่ง squat กับนักกล้ามหรือ power lifter ดู ส่วนที่ว่าดึงข้อไม่ได้จริงๆ เกินครึ่งเป็นเพราะน้ำหนัก ดึงข้อใช้แรงส่วนบน แต่พอน้ำหนักเพิ่มมันเพิ่มทั้งบนทั้งล่างเพราะงั้นยิ่งน้ำหนักเยอะยิ่ง pull up ยากขึ้นแบบ exponential ครับ",
-      "likes": 1,
-      "is_question": false,
-      "published_at": "2026-06-11T09:03:10Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "4500 เจี๋ยวหวาน<br>กำลังดื่มน้ำอยู่แถบพุ่งพี่บิ๊ก",
-      "likes": 1,
-      "is_question": false,
-      "published_at": "2026-06-11T14:37:29Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "เรื่องคุณอุ้ม ผมมองว่าไม่ใช่ความหัวสูงซะทีเดียว แต่เป็นการที่เขาเลือกวัฒนธรรมมากกว่า ผู้คนในฝั่งตะวันตกดูจะเป็นคนที่เอาตัวเองเป็นใหญ่พอสมควร และไทย วัฒนธรรมเอเชียที่ให้ความสำคัญกับคนอื่นพอสมควร",
-      "likes": 1,
-      "is_question": false,
-      "published_at": "2026-06-11T07:01:17Z",
-      "age_days": 8,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
-    },
-    {
-      "text": "พอพูดถึงเหรียญ Luna จำเหตุการณ์ได้เลย บางคนหมดตัวจากมีเงินเป็นล้านๆ บางคน💀ตัวตๅe เห็นตามกลุ่มตอนนั้นก็สงสาร ออกมาระบายชีวิตตัวเองกัน เป็นเหตุการณ์ที่ทำให้ไม่กล้ายุ่งอะไรกับพวกนี้เลย",
-      "likes": 9,
-      "is_question": false,
-      "published_at": "2026-06-10T22:51:07Z",
-      "age_days": 9,
-      "video_id": "hthtfafU12Y",
-      "video_title": "ตัวใครตัวมัน | Ep 92 | bigboung",
-      "channel_name": "bigboung",
-      "video_url": "https://www.youtube.com/watch?v=hthtfafU12Y"
+      "published_at": "2026-06-01T06:22:51Z",
+      "age_days": 19,
+      "video_id": "HoTkemtnEsg",
+      "video_title": "IC Plain เทคนิคสอบผ่าน : Smart Wealth อ.ยีน EP.1",
+      "channel_name": "Gene Panupong",
+      "video_url": "https://www.youtube.com/watch?v=HoTkemtnEsg"
     },
     {
       "text": "อาจารย์สอนดีมากกก เข้าใจมากๆค่ะ",
       "likes": 0,
       "is_question": false,
       "published_at": "2026-05-14T14:29:18Z",
-      "age_days": 36,
+      "age_days": 37,
       "video_id": "3jX4nZp6PAk",
       "video_title": "IC Plain : หมวดที่ 2_บทที่ 1_อ.ดวงดี",
       "channel_name": "AIMC Knowledge",
@@ -1649,7 +914,7 @@
       "likes": 0,
       "is_question": false,
       "published_at": "2026-04-16T06:46:47Z",
-      "age_days": 64,
+      "age_days": 65,
       "video_id": "1P2smTVWtnk",
       "video_title": "สรุปข้อสอบ IC License | Plain Product หมวดที่ 1 (พร้อมสอบใน 1 ชั่วโมง)",
       "channel_name": "Parinya Academy",
@@ -1660,44 +925,77 @@
       "likes": 0,
       "is_question": false,
       "published_at": "2026-04-13T07:44:09Z",
-      "age_days": 67,
+      "age_days": 68,
       "video_id": "m0nMtE2p2gU",
       "video_title": "IC Plain : หมวดที่ 1_บทที่ 1 และ บทที่ 2 - อ.ดวงดี",
       "channel_name": "AIMC Knowledge",
       "video_url": "https://www.youtube.com/watch?v=m0nMtE2p2gU"
     },
     {
+      "text": "ข้อสอบข้างนอก 300 ข้อนี่ไปหาจากไหนครับ",
+      "likes": 0,
+      "is_question": false,
+      "published_at": "2026-04-07T10:56:49Z",
+      "age_days": 74,
+      "video_id": "SV1hNSEMvkc",
+      "video_title": "สอบ IC ให้ผ่านภายในครั้งเดียว พร้อมแนวข้อสอบ (เวลาน้อย)",
+      "channel_name": "Film Growth Journey ",
+      "video_url": "https://www.youtube.com/watch?v=SV1hNSEMvkc"
+    },
+    {
       "text": "ตอนนี้เรียนปี1คณะบริหารธุรกิจสาขาธุรกิจระหว่างประเทศ มีเรียนบัญชีเบื้องต้นพวก งบการเงิน งบกำไรขาดทุน เรียนไปแล้วรู้สึกไม่ค่อยชอบ พี่คิดว่าหนูจะเรียนic ipได้มั้ยคะ มันจะต้องคำนวนแบบบัญชีเยอะมั้ยคะ หรือว่ามองแค่ความเป็นไปได้กับความเสี่ยงของแต่ละธุรกิจ",
       "likes": 1,
       "is_question": false,
       "published_at": "2026-03-26T07:35:47Z",
-      "age_days": 85,
+      "age_days": 86,
       "video_id": "V7OrWg5EVsY",
       "video_title": "รู้จักใบอนุญาตผู้แนะนำการลงทุน หรือ IC License และใบอนุญาตผู้วางแผนการลงทุน หรือ IP License |ThaiPFA",
       "channel_name": "ThaiPFA",
       "video_url": "https://www.youtube.com/watch?v=V7OrWg5EVsY"
     },
     {
-      "text": "ทำไมตะลุยโจทย์ep1กับ2ตอบไม่ตรงกัน",
-      "likes": 0,
-      "is_question": false,
-      "published_at": "2026-02-10T13:14:54Z",
-      "age_days": 129,
-      "video_id": "D9kInv67NqQ",
-      "video_title": "ตะลุยโจทย์แนวข้อสอบ IC License | EP.2 IC Plain ชุดที่ 2 (Update 2566)",
-      "channel_name": "Parinya Academy",
-      "video_url": "https://www.youtube.com/watch?v=D9kInv67NqQ"
-    },
-    {
       "text": "ติวดีมากค่ะ",
       "likes": 0,
       "is_question": false,
       "published_at": "2026-01-28T05:16:38Z",
-      "age_days": 142,
+      "age_days": 143,
       "video_id": "1P2smTVWtnk",
       "video_title": "สรุปข้อสอบ IC License | Plain Product หมวดที่ 1 (พร้อมสอบใน 1 ชั่วโมง)",
       "channel_name": "Parinya Academy",
       "video_url": "https://www.youtube.com/watch?v=1P2smTVWtnk"
+    },
+    {
+      "text": "ขอบคุณค่า",
+      "likes": 0,
+      "is_question": false,
+      "published_at": "2026-01-24T05:17:14Z",
+      "age_days": 147,
+      "video_id": "SV1hNSEMvkc",
+      "video_title": "สอบ IC ให้ผ่านภายในครั้งเดียว พร้อมแนวข้อสอบ (เวลาน้อย)",
+      "channel_name": "Film Growth Journey ",
+      "video_url": "https://www.youtube.com/watch?v=SV1hNSEMvkc"
+    },
+    {
+      "text": "ทำ KYC        ไม่ใช่  KTC    นะคะ",
+      "likes": 0,
+      "is_question": false,
+      "published_at": "2026-01-23T06:26:47Z",
+      "age_days": 148,
+      "video_id": "OjJERUuHeVY",
+      "video_title": "ติวสอบ IC หมวดที่ 2 จรรยาบรรณและจริยธรรม",
+      "channel_name": "petcharat official",
+      "video_url": "https://www.youtube.com/watch?v=OjJERUuHeVY"
+    },
+    {
+      "text": "ขอบคุณตฃจร้าาน้องชาย",
+      "likes": 0,
+      "is_question": false,
+      "published_at": "2026-01-06T16:18:01Z",
+      "age_days": 165,
+      "video_id": "SV1hNSEMvkc",
+      "video_title": "สอบ IC ให้ผ่านภายในครั้งเดียว พร้อมแนวข้อสอบ (เวลาน้อย)",
+      "channel_name": "Film Growth Journey ",
+      "video_url": "https://www.youtube.com/watch?v=SV1hNSEMvkc"
     }
   ]
 }
