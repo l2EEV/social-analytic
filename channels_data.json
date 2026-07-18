@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-17T23:48:30.897219+00:00",
+  "fetched_at": "2026-07-18T23:49:28.944957+00:00",
   "search_queries": [
     "สรุปสอบ IC",
     "ข้อสอบ IC",
@@ -17,57 +17,6 @@
   "new_videos_days": 365,
   "channels": [
     {
-      "channel_name": "Alongkorn .S (GogGag)",
-      "channel_id": "UCyvCn7dIu5HoWA-IrgMkT1Q",
-      "is_own_channel": false,
-      "videos": [
-        {
-          "video_id": "EceFJFpLqnc",
-          "title": "เนื้อหาเพิ่มเติม IC หมวดที่ 1 บทที่ 1,2 และ 6",
-          "thumbnail_url": "https://i.ytimg.com/vi/EceFJFpLqnc/maxresdefault.jpg",
-          "duration_seconds": 2887,
-          "view_count": 7696,
-          "like_count": 205,
-          "comment_count": 18,
-          "engagement_rate": 2.9,
-          "publish_date": "2023-08-29T11:14:59Z"
-        },
-        {
-          "video_id": "L5V903f585o",
-          "title": "IC Plain หมวดที่ 1 Intro บทที่ 1",
-          "thumbnail_url": "https://i.ytimg.com/vi/L5V903f585o/maxresdefault.jpg",
-          "duration_seconds": 2954,
-          "view_count": 114321,
-          "like_count": 1233,
-          "comment_count": 150,
-          "engagement_rate": 1.21,
-          "publish_date": "2018-04-25T14:23:54Z"
-        },
-        {
-          "video_id": "aTDBa0ZUNVc",
-          "title": "IC Plain หมวดที่ 1 บทที่ 2",
-          "thumbnail_url": "https://i.ytimg.com/vi/aTDBa0ZUNVc/maxresdefault.jpg",
-          "duration_seconds": 4466,
-          "view_count": 76315,
-          "like_count": 535,
-          "comment_count": 63,
-          "engagement_rate": 0.78,
-          "publish_date": "2018-04-25T16:29:33Z"
-        },
-        {
-          "video_id": "OYAAtlKHnxU",
-          "title": "เนื้อหาเพิ่มเติม IC หมวดที่ 3 บทที่ 3 และ บทที่ 4 ทั้งบท",
-          "thumbnail_url": "https://i.ytimg.com/vi/OYAAtlKHnxU/maxresdefault.jpg",
-          "duration_seconds": 5257,
-          "view_count": 7149,
-          "like_count": 136,
-          "comment_count": 51,
-          "engagement_rate": 2.62,
-          "publish_date": "2023-08-29T11:44:06Z"
-        }
-      ]
-    },
-    {
       "channel_name": "Parinya Academy",
       "channel_id": "UCYmXWNzDiU1V81zqWQrxyMw",
       "is_own_channel": false,
@@ -77,8 +26,8 @@
           "title": "สรุปข้อสอบ IC License | Plain Product หมวดที่ 1 (พร้อมสอบใน 1 ชั่วโมง)",
           "thumbnail_url": "https://i.ytimg.com/vi/1P2smTVWtnk/hqdefault.jpg",
           "duration_seconds": 3485,
-          "view_count": 90676,
-          "like_count": 2154,
+          "view_count": 90717,
+          "like_count": 2155,
           "comment_count": 53,
           "engagement_rate": 2.43,
           "publish_date": "2022-10-19T04:01:25Z"
@@ -88,7 +37,7 @@
           "title": "ตะลุยโจทย์แนวข้อสอบ IC License | EP.1 IC Plain ชุดที่ 1 (แนวข้อสอบจริง)",
           "thumbnail_url": "https://i.ytimg.com/vi/oT0keVyln-g/maxresdefault.jpg",
           "duration_seconds": 985,
-          "view_count": 27825,
+          "view_count": 27845,
           "like_count": 566,
           "comment_count": 14,
           "engagement_rate": 2.08,
@@ -99,7 +48,7 @@
           "title": "สรุปข้อสอบ IC License | Plain Product หมวดที่ 3 | EP.1 ตราสารทุนและหุ้นสามัญ (ครบจบใน 1 ชั่วโมง)",
           "thumbnail_url": "https://i.ytimg.com/vi/7aoSxxmZAJc/hqdefault.jpg",
           "duration_seconds": 2422,
-          "view_count": 18320,
+          "view_count": 18326,
           "like_count": 298,
           "comment_count": 2,
           "engagement_rate": 1.64,
@@ -110,62 +59,33 @@
           "title": "สรุปข้อสอบ IC Plain (P1) | หมวด 3 บทที่ 1 ภาพรวมตราสารทุนและหุ้นสามัญ (เข้าใจใน 20 นาที)",
           "thumbnail_url": "https://i.ytimg.com/vi/zyvAvPEvdBg/maxresdefault.jpg",
           "duration_seconds": 1210,
-          "view_count": 9252,
+          "view_count": 9256,
           "like_count": 166,
           "comment_count": 0,
           "engagement_rate": 1.79,
           "publish_date": "2022-11-07T09:14:52Z"
         },
         {
+          "video_id": "zExda_lHnEc",
+          "title": "สรุปข้อสอบ IC License | Plain Product บทที่ 1 การลงทุนและตลาดการเงิน (สรุปสั้นไม่เกิน 10 นาที)",
+          "thumbnail_url": "https://i.ytimg.com/vi/zExda_lHnEc/maxresdefault.jpg",
+          "duration_seconds": 453,
+          "view_count": 4350,
+          "like_count": 93,
+          "comment_count": 2,
+          "engagement_rate": 2.18,
+          "publish_date": "2022-12-12T03:46:58Z"
+        },
+        {
           "video_id": "D9kInv67NqQ",
           "title": "ตะลุยโจทย์แนวข้อสอบ IC License | EP.2 IC Plain ชุดที่ 2 (Update 2566)",
           "thumbnail_url": "https://i.ytimg.com/vi/D9kInv67NqQ/maxresdefault.jpg",
           "duration_seconds": 1378,
-          "view_count": 23998,
-          "like_count": 462,
+          "view_count": 24017,
+          "like_count": 463,
           "comment_count": 19,
-          "engagement_rate": 2.0,
+          "engagement_rate": 2.01,
           "publish_date": "2023-01-19T01:37:53Z"
-        }
-      ]
-    },
-    {
-      "channel_name": "Gene Panupong",
-      "channel_id": "UCUG54YfskEjx0upxhh6qS6g",
-      "is_own_channel": false,
-      "videos": [
-        {
-          "video_id": "HoTkemtnEsg",
-          "title": "IC Plain เทคนิคสอบผ่าน : Smart Wealth อ.ยีน EP.1",
-          "thumbnail_url": "https://i.ytimg.com/vi/HoTkemtnEsg/maxresdefault.jpg",
-          "duration_seconds": 758,
-          "view_count": 64130,
-          "like_count": 1027,
-          "comment_count": 81,
-          "engagement_rate": 1.73,
-          "publish_date": "2020-06-22T15:16:36Z"
-        },
-        {
-          "video_id": "y5I7HqXqtC8",
-          "title": "IC Plain หมวดที่ 1 บทที่ 1 : Smart Wealth อ.ยีน EP.2",
-          "thumbnail_url": "https://i.ytimg.com/vi/y5I7HqXqtC8/maxresdefault.jpg",
-          "duration_seconds": 1192,
-          "view_count": 59997,
-          "like_count": 819,
-          "comment_count": 43,
-          "engagement_rate": 1.44,
-          "publish_date": "2020-06-27T02:53:05Z"
-        },
-        {
-          "video_id": "HWc-BN11UW4",
-          "title": "IC Plain หมวดที่ 2 บทที่ 1 : Smart Wealth อ.ยีน EP.21",
-          "thumbnail_url": "https://i.ytimg.com/vi/HWc-BN11UW4/maxresdefault.jpg",
-          "duration_seconds": 2089,
-          "view_count": 23400,
-          "like_count": 262,
-          "comment_count": 13,
-          "engagement_rate": 1.18,
-          "publish_date": "2020-11-09T19:46:33Z"
         }
       ]
     },
@@ -179,7 +99,7 @@
           "title": "IC Plain : หมวดที่ 1_บทที่ 1 และ บทที่ 2 - อ.ดวงดี",
           "thumbnail_url": "https://i.ytimg.com/vi/m0nMtE2p2gU/maxresdefault.jpg",
           "duration_seconds": 4565,
-          "view_count": 95967,
+          "view_count": 95998,
           "like_count": 1494,
           "comment_count": 62,
           "engagement_rate": 1.62,
@@ -190,69 +110,142 @@
           "title": "IC Plain : หมวดที่ 3_ความรู้เกี่ยวกับผลิตภัณฑ์ตลาดทุน : ตราสารทั่วไป Part 1_อ.ดวงดี",
           "thumbnail_url": "https://i.ytimg.com/vi/xDpvic3xfXI/maxresdefault.jpg",
           "duration_seconds": 2332,
-          "view_count": 32438,
+          "view_count": 32455,
           "like_count": 369,
           "comment_count": 5,
           "engagement_rate": 1.15,
           "publish_date": "2021-05-11T06:17:08Z"
+        },
+        {
+          "video_id": "3jX4nZp6PAk",
+          "title": "IC Plain : หมวดที่ 2_บทที่ 1_อ.ดวงดี",
+          "thumbnail_url": "https://i.ytimg.com/vi/3jX4nZp6PAk/maxresdefault.jpg",
+          "duration_seconds": 1760,
+          "view_count": 31219,
+          "like_count": 323,
+          "comment_count": 5,
+          "engagement_rate": 1.05,
+          "publish_date": "2021-04-22T08:52:40Z"
         }
       ]
     },
     {
-      "channel_name": "Kru Pu life insurance ( อ.ปุ๊ )",
-      "channel_id": "UCIg5ETZCUTydiwqPBLg0pBw",
+      "channel_name": "Gene Panupong",
+      "channel_id": "UCUG54YfskEjx0upxhh6qS6g",
       "is_own_channel": false,
       "videos": [
         {
-          "video_id": "iU9bHlMRKaM",
-          "title": "สรุปเนื้อหา IC หมวดจรรยาบรรณ",
-          "thumbnail_url": "https://i.ytimg.com/vi/iU9bHlMRKaM/hqdefault.jpg",
-          "duration_seconds": 4294,
-          "view_count": 36306,
-          "like_count": 654,
-          "comment_count": 36,
-          "engagement_rate": 1.9,
-          "publish_date": "2020-07-08T03:51:50Z"
+          "video_id": "HoTkemtnEsg",
+          "title": "IC Plain เทคนิคสอบผ่าน : Smart Wealth อ.ยีน EP.1",
+          "thumbnail_url": "https://i.ytimg.com/vi/HoTkemtnEsg/maxresdefault.jpg",
+          "duration_seconds": 758,
+          "view_count": 64164,
+          "like_count": 1027,
+          "comment_count": 81,
+          "engagement_rate": 1.73,
+          "publish_date": "2020-06-22T15:16:36Z"
+        },
+        {
+          "video_id": "y5I7HqXqtC8",
+          "title": "IC Plain หมวดที่ 1 บทที่ 1 : Smart Wealth อ.ยีน EP.2",
+          "thumbnail_url": "https://i.ytimg.com/vi/y5I7HqXqtC8/maxresdefault.jpg",
+          "duration_seconds": 1192,
+          "view_count": 60026,
+          "like_count": 819,
+          "comment_count": 43,
+          "engagement_rate": 1.44,
+          "publish_date": "2020-06-27T02:53:05Z"
+        },
+        {
+          "video_id": "HWc-BN11UW4",
+          "title": "IC Plain หมวดที่ 2 บทที่ 1 : Smart Wealth อ.ยีน EP.21",
+          "thumbnail_url": "https://i.ytimg.com/vi/HWc-BN11UW4/maxresdefault.jpg",
+          "duration_seconds": 2089,
+          "view_count": 23409,
+          "like_count": 262,
+          "comment_count": 13,
+          "engagement_rate": 1.17,
+          "publish_date": "2020-11-09T19:46:33Z"
         }
       ]
     },
     {
-      "channel_name": "ThaiPFA",
-      "channel_id": "UCLFDCdJX1DyIIUGapeCIOjg",
+      "channel_name": "Alongkorn .S (GogGag)",
+      "channel_id": "UCyvCn7dIu5HoWA-IrgMkT1Q",
       "is_own_channel": false,
       "videos": [
         {
-          "video_id": "V7OrWg5EVsY",
-          "title": "รู้จักใบอนุญาตผู้แนะนำการลงทุน หรือ IC License และใบอนุญาตผู้วางแผนการลงทุน หรือ IP License |ThaiPFA",
-          "thumbnail_url": "https://i.ytimg.com/vi/V7OrWg5EVsY/maxresdefault.jpg",
-          "duration_seconds": 412,
-          "view_count": 20867,
-          "like_count": 381,
-          "comment_count": 49,
-          "engagement_rate": 2.06,
-          "publish_date": "2021-03-20T11:00:18Z"
+          "video_id": "EceFJFpLqnc",
+          "title": "เนื้อหาเพิ่มเติม IC หมวดที่ 1 บทที่ 1,2 และ 6",
+          "thumbnail_url": "https://i.ytimg.com/vi/EceFJFpLqnc/maxresdefault.jpg",
+          "duration_seconds": 2887,
+          "view_count": 7704,
+          "like_count": 205,
+          "comment_count": 18,
+          "engagement_rate": 2.89,
+          "publish_date": "2023-08-29T11:14:59Z"
         },
         {
-          "video_id": "Cr7ini2GJaM",
-          "title": "ใบอนุญาต ผู้แนะนำการลงทุนด้านหลักทรัพย์ IC ผู้วางแผนการลงทุน IP คืออะไรทำงานอย่างไร ได้มาได้อย่างไร",
-          "thumbnail_url": "https://i.ytimg.com/vi/Cr7ini2GJaM/maxresdefault.jpg",
-          "duration_seconds": 183,
-          "view_count": 3750,
-          "like_count": 97,
-          "comment_count": 11,
-          "engagement_rate": 2.88,
-          "publish_date": "2023-09-27T00:00:03Z"
+          "video_id": "L5V903f585o",
+          "title": "IC Plain หมวดที่ 1 Intro บทที่ 1",
+          "thumbnail_url": "https://i.ytimg.com/vi/L5V903f585o/maxresdefault.jpg",
+          "duration_seconds": 2954,
+          "view_count": 114327,
+          "like_count": 1232,
+          "comment_count": 150,
+          "engagement_rate": 1.21,
+          "publish_date": "2018-04-25T14:23:54Z"
         },
         {
-          "video_id": "TgwBto21Fqw",
-          "title": "คนที่จะสอบ IC IP AFPT CFP ต้องเตรียมตัวอย่างไร ถึงจะสอบผ่าน  #การสอบ #CFP #IP #AFPT #IC",
-          "thumbnail_url": "https://i.ytimg.com/vi/TgwBto21Fqw/maxresdefault.jpg",
-          "duration_seconds": 61,
-          "view_count": 6893,
-          "like_count": 133,
-          "comment_count": 1,
-          "engagement_rate": 1.94,
-          "publish_date": "2023-10-25T03:00:29Z"
+          "video_id": "OYAAtlKHnxU",
+          "title": "เนื้อหาเพิ่มเติม IC หมวดที่ 3 บทที่ 3 และ บทที่ 4 ทั้งบท",
+          "thumbnail_url": "https://i.ytimg.com/vi/OYAAtlKHnxU/maxresdefault.jpg",
+          "duration_seconds": 5257,
+          "view_count": 7152,
+          "like_count": 136,
+          "comment_count": 51,
+          "engagement_rate": 2.61,
+          "publish_date": "2023-08-29T11:44:06Z"
+        }
+      ]
+    },
+    {
+      "channel_name": "การเงินคนโง่",
+      "channel_id": "UCkvFq6jKtKEmX3Z2SGQ1mgQ",
+      "is_own_channel": false,
+      "videos": [
+        {
+          "video_id": "gxVkDNsCmGI",
+          "title": "ATP Academy | ติวสอบ IC หมวดที่ 2 จรรยาบรรณและจริยธรรม",
+          "thumbnail_url": "https://i.ytimg.com/vi/gxVkDNsCmGI/maxresdefault.jpg",
+          "duration_seconds": 6350,
+          "view_count": 6376,
+          "like_count": 65,
+          "comment_count": 3,
+          "engagement_rate": 1.07,
+          "publish_date": "2024-04-29T02:59:57Z"
+        },
+        {
+          "video_id": "3oapxVixcvk",
+          "title": "ATP Academy | ติวสอบ IC หมวดที่ 1 [บทที่ 1] ปัจจัยแวดล้อมของการลงทุนและตลาดเงิน",
+          "thumbnail_url": "https://i.ytimg.com/vi/3oapxVixcvk/maxresdefault.jpg",
+          "duration_seconds": 2308,
+          "view_count": 24585,
+          "like_count": 403,
+          "comment_count": 9,
+          "engagement_rate": 1.68,
+          "publish_date": "2024-04-25T07:54:27Z"
+        },
+        {
+          "video_id": "KLxA2-9pz5c",
+          "title": "ATP Academy | ติวสอบ IC หมวดที่ 3 [บทที่ 1] ภาพรวมเกี่ยวกับตราสารทุนและหุ้นสามัญ",
+          "thumbnail_url": "https://i.ytimg.com/vi/KLxA2-9pz5c/maxresdefault.jpg",
+          "duration_seconds": 1760,
+          "view_count": 3351,
+          "like_count": 21,
+          "comment_count": 2,
+          "engagement_rate": 0.69,
+          "publish_date": "2024-04-29T10:00:12Z"
         }
       ]
     },
@@ -266,62 +259,73 @@
           "title": "ตะลุยโจทย์ IC License P1 หมวด 1 — เฉลยพร้อมอธิบายครบ (มือใหม่เริ่มที่นี่)",
           "thumbnail_url": "https://i.ytimg.com/vi/1J5tihC5Zz8/maxresdefault.jpg",
           "duration_seconds": 5088,
-          "view_count": 18821,
+          "view_count": 18819,
           "like_count": 420,
           "comment_count": 15,
           "engagement_rate": 2.31,
           "publish_date": "2021-05-23T12:30:11Z"
         },
         {
+          "video_id": "KfgyXwlh2gY",
+          "title": "สอบ IC License P1 + P3 ผ่านรอบเดียว — เส้นทางสู่ใบอนุญาตตราสารทุกประเภท",
+          "thumbnail_url": "https://i.ytimg.com/vi/KfgyXwlh2gY/maxresdefault.jpg",
+          "duration_seconds": 1112,
+          "view_count": 6046,
+          "like_count": 115,
+          "comment_count": 13,
+          "engagement_rate": 2.12,
+          "publish_date": "2021-03-12T12:30:02Z"
+        },
+        {
           "video_id": "ew0cl9rrNWo",
           "title": "ติวเข้ม ตะลุยโจทย์ ผู้แนะนำการลงทุน IC P1 หมวด 1 ความรู้พื้นฐาน ตอนที่ 2",
           "thumbnail_url": "https://i.ytimg.com/vi/ew0cl9rrNWo/maxresdefault.jpg",
           "duration_seconds": 4557,
-          "view_count": 7018,
+          "view_count": 7017,
           "like_count": 114,
           "comment_count": 14,
           "engagement_rate": 1.82,
           "publish_date": "2021-05-24T12:30:13Z"
-        },
-        {
-          "video_id": "LIqSWgc8D3M",
-          "title": "เทคนิคสอบ IC License P1 ผ่านรอบเดียว — ติวเข้มก่อนสอบจริง (ครบทุกจุดที่มักออก)",
-          "thumbnail_url": "https://i.ytimg.com/vi/LIqSWgc8D3M/maxresdefault.jpg",
-          "duration_seconds": 789,
-          "view_count": 4394,
-          "like_count": 56,
-          "comment_count": 3,
-          "engagement_rate": 1.34,
-          "publish_date": "2021-05-21T12:30:16Z"
         }
       ]
     },
     {
-      "channel_name": "การเงินคนโง่",
-      "channel_id": "UCkvFq6jKtKEmX3Z2SGQ1mgQ",
+      "channel_name": "ThaiPFA",
+      "channel_id": "UCLFDCdJX1DyIIUGapeCIOjg",
       "is_own_channel": false,
       "videos": [
         {
-          "video_id": "3oapxVixcvk",
-          "title": "ATP Academy | ติวสอบ IC หมวดที่ 1 [บทที่ 1] ปัจจัยแวดล้อมของการลงทุนและตลาดเงิน",
-          "thumbnail_url": "https://i.ytimg.com/vi/3oapxVixcvk/maxresdefault.jpg",
-          "duration_seconds": 2308,
-          "view_count": 24562,
-          "like_count": 403,
-          "comment_count": 9,
-          "engagement_rate": 1.68,
-          "publish_date": "2024-04-25T07:54:27Z"
+          "video_id": "V7OrWg5EVsY",
+          "title": "รู้จักใบอนุญาตผู้แนะนำการลงทุน หรือ IC License และใบอนุญาตผู้วางแผนการลงทุน หรือ IP License |ThaiPFA",
+          "thumbnail_url": "https://i.ytimg.com/vi/V7OrWg5EVsY/maxresdefault.jpg",
+          "duration_seconds": 412,
+          "view_count": 20872,
+          "like_count": 381,
+          "comment_count": 49,
+          "engagement_rate": 2.06,
+          "publish_date": "2021-03-20T11:00:18Z"
         },
         {
-          "video_id": "KLxA2-9pz5c",
-          "title": "ATP Academy | ติวสอบ IC หมวดที่ 3 [บทที่ 1] ภาพรวมเกี่ยวกับตราสารทุนและหุ้นสามัญ",
-          "thumbnail_url": "https://i.ytimg.com/vi/KLxA2-9pz5c/maxresdefault.jpg",
-          "duration_seconds": 1760,
-          "view_count": 3347,
-          "like_count": 21,
-          "comment_count": 2,
-          "engagement_rate": 0.69,
-          "publish_date": "2024-04-29T10:00:12Z"
+          "video_id": "Cr7ini2GJaM",
+          "title": "ใบอนุญาต ผู้แนะนำการลงทุนด้านหลักทรัพย์ IC ผู้วางแผนการลงทุน IP คืออะไรทำงานอย่างไร ได้มาได้อย่างไร",
+          "thumbnail_url": "https://i.ytimg.com/vi/Cr7ini2GJaM/maxresdefault.jpg",
+          "duration_seconds": 183,
+          "view_count": 3754,
+          "like_count": 97,
+          "comment_count": 11,
+          "engagement_rate": 2.88,
+          "publish_date": "2023-09-27T00:00:03Z"
+        },
+        {
+          "video_id": "TgwBto21Fqw",
+          "title": "คนที่จะสอบ IC IP AFPT CFP ต้องเตรียมตัวอย่างไร ถึงจะสอบผ่าน  #การสอบ #CFP #IP #AFPT #IC",
+          "thumbnail_url": "https://i.ytimg.com/vi/TgwBto21Fqw/maxresdefault.jpg",
+          "duration_seconds": 61,
+          "view_count": 6913,
+          "like_count": 134,
+          "comment_count": 1,
+          "engagement_rate": 1.95,
+          "publish_date": "2023-10-25T03:00:29Z"
         }
       ]
     },
@@ -335,7 +339,7 @@
           "title": "💰แชร์ประสบการณ์สอบ IC License P1,P2,P3 | รวดเดียวจบ เตรียมตัวแค่ 12 ชม.  เท่านั้น!! by Kak TRD",
           "thumbnail_url": "https://i.ytimg.com/vi/dcdVwDFZQdM/hqdefault.jpg",
           "duration_seconds": 746,
-          "view_count": 25659,
+          "view_count": 25668,
           "like_count": 750,
           "comment_count": 49,
           "engagement_rate": 3.11,
@@ -358,17 +362,6 @@
           "comment_count": 7,
           "engagement_rate": 1.74,
           "publish_date": "2022-05-18T14:13:03Z"
-        },
-        {
-          "video_id": "n6LiXJ712uE",
-          "title": "เผยคำแนะนำเกี่ยวกับเนื้อหาและหนังสือที่ใช้ในการสอบ IC (ติวสอบ IC Plain)",
-          "thumbnail_url": "https://i.ytimg.com/vi/n6LiXJ712uE/maxresdefault.jpg",
-          "duration_seconds": 1093,
-          "view_count": 1851,
-          "like_count": 60,
-          "comment_count": 2,
-          "engagement_rate": 3.35,
-          "publish_date": "2021-05-31T13:01:21Z"
         },
         {
           "video_id": "CwXghlGNGFs",
@@ -415,7 +408,7 @@
           "title": "ติวสอบ IC License สรุปในสรุป Part 1",
           "thumbnail_url": "https://i.ytimg.com/vi/eRrfMaCjwpA/maxresdefault.jpg",
           "duration_seconds": 1022,
-          "view_count": 8466,
+          "view_count": 8487,
           "like_count": 193,
           "comment_count": 7,
           "engagement_rate": 2.36,
@@ -426,10 +419,10 @@
           "title": "ติวสอบ IC License สรุปในสรุป Part 3",
           "thumbnail_url": "https://i.ytimg.com/vi/HYjpwprsIXM/maxresdefault.jpg",
           "duration_seconds": 1570,
-          "view_count": 5431,
+          "view_count": 5448,
           "like_count": 80,
           "comment_count": 5,
-          "engagement_rate": 1.57,
+          "engagement_rate": 1.56,
           "publish_date": "2024-02-08T05:39:35Z"
         }
       ]
@@ -444,10 +437,10 @@
           "title": "สอบ IC ให้ผ่านภายในครั้งเดียว พร้อมแนวข้อสอบ (เวลาน้อย)",
           "thumbnail_url": "https://i.ytimg.com/vi/SV1hNSEMvkc/maxresdefault.jpg",
           "duration_seconds": 355,
-          "view_count": 11498,
+          "view_count": 11518,
           "like_count": 463,
           "comment_count": 32,
-          "engagement_rate": 4.31,
+          "engagement_rate": 4.3,
           "publish_date": "2024-09-24T00:00:15Z"
         }
       ]
@@ -462,11 +455,29 @@
           "title": "ติวสอบ IC หมวดที่ 2 จรรยาบรรณและจริยธรรม",
           "thumbnail_url": "https://i.ytimg.com/vi/OjJERUuHeVY/maxresdefault.jpg",
           "duration_seconds": 6350,
-          "view_count": 11202,
-          "like_count": 178,
+          "view_count": 11219,
+          "like_count": 177,
           "comment_count": 5,
-          "engagement_rate": 1.63,
+          "engagement_rate": 1.62,
           "publish_date": "2023-11-29T10:44:08Z"
+        }
+      ]
+    },
+    {
+      "channel_name": "ปัทมา หล่อหลอม - ตัวแทนประกัน - IC",
+      "channel_id": "UCga_z2sxY29m7ZT0xM5ussQ",
+      "is_own_channel": false,
+      "videos": [
+        {
+          "video_id": "GYYEz-JKd1E",
+          "title": "เทคนิคการทำข้อสอบIC PLAIN เตรียมตัวสอบIC License ผู้แนะนำการลงทุนตราสารทั่วไป | By Pattama",
+          "thumbnail_url": "https://i.ytimg.com/vi/GYYEz-JKd1E/maxresdefault.jpg",
+          "duration_seconds": 1059,
+          "view_count": 10462,
+          "like_count": 158,
+          "comment_count": 23,
+          "engagement_rate": 1.73,
+          "publish_date": "2020-05-18T08:05:42Z"
         }
       ]
     },
@@ -480,29 +491,11 @@
           "title": "สอบIC Plainผ่านแต่ไม่อยากขายประกัน #ที่ปรึกษาการลงทุน #การเงิน #การเงินการลงทุน #การเงินส่วนบุคคล",
           "thumbnail_url": "https://i.ytimg.com/vi/mJcndKOivLY/maxresdefault.jpg",
           "duration_seconds": 61,
-          "view_count": 5167,
-          "like_count": 141,
+          "view_count": 5188,
+          "like_count": 142,
           "comment_count": 4,
           "engagement_rate": 2.81,
           "publish_date": "2024-12-02T10:51:06Z"
-        }
-      ]
-    },
-    {
-      "channel_name": "TAM nopmanie",
-      "channel_id": "UCEzK_TCYZUtEYApSgOwWoYQ",
-      "is_own_channel": false,
-      "videos": [
-        {
-          "video_id": "YJvio0UCd3c",
-          "title": "แจกแนวข้อสอบจริง #มาตรฐานวิชาชีพพัสดุ #หลักสูตรระดับต้น fc สอบพัสดุ e-CPP",
-          "thumbnail_url": "https://i.ytimg.com/vi/YJvio0UCd3c/hqdefault.jpg",
-          "duration_seconds": 1202,
-          "view_count": 4359,
-          "like_count": 43,
-          "comment_count": 9,
-          "engagement_rate": 1.19,
-          "publish_date": "2025-07-29T09:22:56Z"
         }
       ]
     },
@@ -516,10 +509,10 @@
           "title": "EP. 148 สอบ IC ยังไงให้ครั้งเดียวผ่าน",
           "thumbnail_url": "https://i.ytimg.com/vi/8vEzg-K03dg/maxresdefault.jpg",
           "duration_seconds": 547,
-          "view_count": 4035,
-          "like_count": 88,
+          "view_count": 4043,
+          "like_count": 89,
           "comment_count": 14,
-          "engagement_rate": 2.53,
+          "engagement_rate": 2.55,
           "publish_date": "2025-04-06T10:30:05Z"
         }
       ]
@@ -534,11 +527,29 @@
           "title": "เตรียมตัวสอบ IC ต้องทำอย่างไรบ้าง? วันนี้ #financialacademy มีทริคดีๆมาแชร์กันค่า #shorts #การเงิน",
           "thumbnail_url": "https://i.ytimg.com/vi/tLRlOaovWvI/maxresdefault.jpg",
           "duration_seconds": 60,
-          "view_count": 3100,
-          "like_count": 69,
+          "view_count": 3114,
+          "like_count": 70,
           "comment_count": 1,
-          "engagement_rate": 2.26,
+          "engagement_rate": 2.28,
           "publish_date": "2024-11-09T15:50:13Z"
+        }
+      ]
+    },
+    {
+      "channel_name": "รีวิวให้ที่บ้าน",
+      "channel_id": "UCOoFmGqKiB59gqw69-W3quA",
+      "is_own_channel": false,
+      "videos": [
+        {
+          "video_id": "U2M9yROR9NY",
+          "title": "EP.1 แนะนำการเตรียมสอบ IC Plain (Part 1 / 2 )",
+          "thumbnail_url": "https://i.ytimg.com/vi/U2M9yROR9NY/maxresdefault.jpg",
+          "duration_seconds": 374,
+          "view_count": 2522,
+          "like_count": 56,
+          "comment_count": 6,
+          "engagement_rate": 2.46,
+          "publish_date": "2020-12-18T15:35:13Z"
         }
       ]
     },
@@ -552,7 +563,7 @@
           "title": "\"สอบ IC P3 ผ่านได้แบบไม่ต้องติว! อ่านเองยังไงให้สอบผ่าน\"",
           "thumbnail_url": "https://i.ytimg.com/vi/_N6zuyRkg60/maxresdefault.jpg",
           "duration_seconds": 142,
-          "view_count": 2142,
+          "view_count": 2143,
           "like_count": 38,
           "comment_count": 0,
           "engagement_rate": 1.77,
@@ -588,7 +599,7 @@
           "title": "สอบ IC License รอบเดียวผ่าน! เทคนิคจริงที่คนสอบติดใช้กัน",
           "thumbnail_url": "https://i.ytimg.com/vi/eZc62aHQD9E/maxresdefault.jpg",
           "duration_seconds": 920,
-          "view_count": 1606,
+          "view_count": 1607,
           "like_count": 52,
           "comment_count": 7,
           "engagement_rate": 3.67,
@@ -606,10 +617,10 @@
           "title": "IC License คืออะไร? แล้ว P1 P2 P3 ต่างกันยังไง? สรุปให้เข้าใจในคลิปเดียว",
           "thumbnail_url": "https://i.ytimg.com/vi/M8TTSqPo4b0/maxresdefault.jpg",
           "duration_seconds": 95,
-          "view_count": 1221,
-          "like_count": 25,
+          "view_count": 1234,
+          "like_count": 26,
           "comment_count": 0,
-          "engagement_rate": 2.05,
+          "engagement_rate": 2.11,
           "publish_date": "2026-04-23T04:31:43Z"
         }
       ]
@@ -635,11 +646,25 @@
   ],
   "new_videos": [
     {
+      "video_id": "ojfcdrvkGMM",
+      "title": "อยากเป็น ผู้แนะนำการลงทุน (IC )  ผู้วางแผนการลงทุน (IP Planner) ทำอย่างไร",
+      "thumbnail_url": "https://i.ytimg.com/vi/ojfcdrvkGMM/maxresdefault.jpg",
+      "duration_seconds": 1617,
+      "view_count": 1,
+      "like_count": 0,
+      "comment_count": 0,
+      "engagement_rate": 0.0,
+      "publish_date": "2026-07-18T01:00:22Z",
+      "channel_id": "UC_Mb9rEBYHGcBI_QCKjfs0Q",
+      "channel_name": "บุปผาแห่งชีวิต",
+      "video_url": "https://www.youtube.com/watch?v=ojfcdrvkGMM"
+    },
+    {
       "video_id": "31Pxg3na3q8",
       "title": "ความเสี่ยงระบบ vs ความเสี่ยงไม่เป็นระบบ #IC #ข้อสอบ",
       "thumbnail_url": "https://i.ytimg.com/vi/31Pxg3na3q8/maxresdefault.jpg",
       "duration_seconds": 154,
-      "view_count": 24,
+      "view_count": 32,
       "like_count": 0,
       "comment_count": 0,
       "engagement_rate": 0.0,
@@ -653,7 +678,7 @@
       "title": "ขี้เกียจอ่านหนังสือ แต่อยากสอบ IC ผ่าน ?",
       "thumbnail_url": "https://i.ytimg.com/vi/x2_ugiw_gyo/maxresdefault.jpg",
       "duration_seconds": 115,
-      "view_count": 38,
+      "view_count": 40,
       "like_count": 0,
       "comment_count": 0,
       "engagement_rate": 0.0,
@@ -667,10 +692,10 @@
       "title": "พี่เก๋ Nineplanner 58 เตรียมตัวสอบ IC Plain อย่างไร ให้ผ่านในครั้งเดียว!!! ไปชมกัน #เตรียมสอบICPlain",
       "thumbnail_url": "https://i.ytimg.com/vi/pHWgqcJh700/maxresdefault.jpg",
       "duration_seconds": 92,
-      "view_count": 33,
+      "view_count": 35,
       "like_count": 1,
       "comment_count": 0,
-      "engagement_rate": 3.03,
+      "engagement_rate": 2.86,
       "publish_date": "2026-07-14T14:36:46Z",
       "channel_id": "UCfVWloA2NpzGu9x0RMJRAew",
       "channel_name": "Joyuary Phongluangtham",
@@ -737,10 +762,10 @@
       "title": "แกะข้อสอบข้อเขียนและแนวทางการให้คะแนน สอบซ่อม e-CPP ระดับกลาง IC 69",
       "thumbnail_url": "https://i.ytimg.com/vi/HeP5xGfxCGk/maxresdefault.jpg",
       "duration_seconds": 832,
-      "view_count": 340,
+      "view_count": 342,
       "like_count": 16,
       "comment_count": 4,
-      "engagement_rate": 5.88,
+      "engagement_rate": 5.85,
       "publish_date": "2026-06-26T03:19:27Z",
       "channel_id": "UCEzK_TCYZUtEYApSgOwWoYQ",
       "channel_name": "TAM nopmanie",
@@ -751,10 +776,10 @@
       "title": "พี่หิน Nineplanner 42 เตรียมตัวสอบ IC Plain อย่างไรบ้าง ไปชมกัน",
       "thumbnail_url": "https://i.ytimg.com/vi/FGT3hpzD7mw/maxresdefault.jpg",
       "duration_seconds": 124,
-      "view_count": 71,
+      "view_count": 72,
       "like_count": 1,
       "comment_count": 0,
-      "engagement_rate": 1.41,
+      "engagement_rate": 1.39,
       "publish_date": "2026-06-24T04:35:28Z",
       "channel_id": "UCfVWloA2NpzGu9x0RMJRAew",
       "channel_name": "Joyuary Phongluangtham",
@@ -887,50 +912,50 @@
       "video_url": "https://www.youtube.com/watch?v=oplG1Ognycs"
     },
     {
-      "video_id": "P8psS_Ycjsc",
-      "title": "อธิบายตัวอย่างข้อสอบ IC Plain หัวข้อ 1.1 (ติวสอบ IC Plain)",
-      "thumbnail_url": "https://i.ytimg.com/vi/P8psS_Ycjsc/maxresdefault.jpg",
-      "duration_seconds": 891,
-      "view_count": 1248,
-      "like_count": 12,
-      "comment_count": 14,
-      "engagement_rate": 2.08,
-      "publish_date": "2025-10-18T13:51:43Z",
-      "channel_id": "UC_K4nYZ3cm35xa3u2BWFPiw",
-      "channel_name": "Rjan Sun CFP",
-      "video_url": "https://www.youtube.com/watch?v=P8psS_Ycjsc"
+      "video_id": "YJvio0UCd3c",
+      "title": "แจกแนวข้อสอบจริง #มาตรฐานวิชาชีพพัสดุ #หลักสูตรระดับต้น fc สอบพัสดุ e-CPP",
+      "thumbnail_url": "https://i.ytimg.com/vi/YJvio0UCd3c/hqdefault.jpg",
+      "duration_seconds": 1202,
+      "view_count": 4361,
+      "like_count": 43,
+      "comment_count": 9,
+      "engagement_rate": 1.19,
+      "publish_date": "2025-07-29T09:22:56Z",
+      "channel_id": "UCEzK_TCYZUtEYApSgOwWoYQ",
+      "channel_name": "TAM nopmanie",
+      "video_url": "https://www.youtube.com/watch?v=YJvio0UCd3c"
     }
   ],
   "insights": [
     {
       "type": "title_pattern",
       "icon": "🏆",
-      "tip": "Videos with \"หมวด\" in the title average 1.8x more views than the niche average",
-      "evidence": "Avg views with keyword: 37,458 vs. overall avg: 20,946"
+      "tip": "Videos with \"หมวด\" in the title average 1.7x more views than the niche average",
+      "evidence": "Avg views with keyword: 33,056 vs. overall avg: 19,021"
     },
     {
       "type": "timing",
       "icon": "📅",
-      "tip": "Videos posted on Wednesday average the highest views in this niche",
-      "evidence": "Avg views on Wednesday: 31,528 (based on 11 videos)"
+      "tip": "Videos posted on Thursday average the highest views in this niche",
+      "evidence": "Avg views on Thursday: 27,284 (based on 7 videos)"
     },
     {
       "type": "engagement",
       "icon": "🔥",
       "tip": "Film Growth Journey  drives the most audience interaction — study their format and CTA style",
-      "evidence": "Avg engagement rate: 4.31% (likes + comments ÷ views)"
+      "evidence": "Avg engagement rate: 4.3% (likes + comments ÷ views)"
     },
     {
       "type": "content_gap",
       "icon": "🎯",
-      "tip": "Top search results use \"สรุป\" frequently — your recent videos don't",
-      "evidence": "Missing keywords from your titles: สรุป, ผ่าน, เทคนิค, แนวข้อสอบ"
+      "tip": "Top search results use \"ติว\" frequently — your recent videos don't",
+      "evidence": "Missing keywords from your titles: ติว, สรุป, ผ่าน, เทคนิค"
     },
     {
       "type": "video_length",
       "icon": "⏱",
-      "tip": "Top-performing videos average 50m — longer than lower-performing ones (17m)",
-      "evidence": "Top 20% avg length: 50m | Bottom 50% avg length: 17m"
+      "tip": "Top-performing videos average 37m — longer than lower-performing ones (21m)",
+      "evidence": "Top 20% avg length: 37m | Bottom 50% avg length: 21m"
     }
   ],
   "audience_questions": [
@@ -939,7 +964,7 @@
       "likes": 0,
       "is_question": true,
       "published_at": "2026-06-28T06:14:04Z",
-      "age_days": 19,
+      "age_days": 20,
       "video_id": "y5I7HqXqtC8",
       "video_title": "IC Plain หมวดที่ 1 บทที่ 1 : Smart Wealth อ.ยีน EP.2",
       "channel_name": "Gene Panupong",
@@ -950,7 +975,7 @@
       "likes": 0,
       "is_question": true,
       "published_at": "2026-06-16T02:19:07Z",
-      "age_days": 31,
+      "age_days": 32,
       "video_id": "y5I7HqXqtC8",
       "video_title": "IC Plain หมวดที่ 1 บทที่ 1 : Smart Wealth อ.ยีน EP.2",
       "channel_name": "Gene Panupong",
@@ -961,7 +986,7 @@
       "likes": 1,
       "is_question": true,
       "published_at": "2026-03-29T16:10:03Z",
-      "age_days": 110,
+      "age_days": 111,
       "video_id": "y5I7HqXqtC8",
       "video_title": "IC Plain หมวดที่ 1 บทที่ 1 : Smart Wealth อ.ยีน EP.2",
       "channel_name": "Gene Panupong",
@@ -972,7 +997,7 @@
       "likes": 0,
       "is_question": false,
       "published_at": "2026-07-16T06:34:40Z",
-      "age_days": 1,
+      "age_days": 2,
       "video_id": "xDpvic3xfXI",
       "video_title": "IC Plain : หมวดที่ 3_ความรู้เกี่ยวกับผลิตภัณฑ์ตลาดทุน : ตราสารทั่วไป Part 1_อ.ดวงดี",
       "channel_name": "AIMC Knowledge",
@@ -983,7 +1008,7 @@
       "likes": 0,
       "is_question": false,
       "published_at": "2026-07-09T06:06:51Z",
-      "age_days": 8,
+      "age_days": 9,
       "video_id": "1P2smTVWtnk",
       "video_title": "สรุปข้อสอบ IC License | Plain Product หมวดที่ 1 (พร้อมสอบใน 1 ชั่วโมง)",
       "channel_name": "Parinya Academy",
@@ -994,7 +1019,7 @@
       "likes": 1,
       "is_question": false,
       "published_at": "2026-07-08T13:15:21Z",
-      "age_days": 9,
+      "age_days": 10,
       "video_id": "HoTkemtnEsg",
       "video_title": "IC Plain เทคนิคสอบผ่าน : Smart Wealth อ.ยีน EP.1",
       "channel_name": "Gene Panupong",
@@ -1005,7 +1030,7 @@
       "likes": 0,
       "is_question": false,
       "published_at": "2026-07-08T13:17:52Z",
-      "age_days": 9,
+      "age_days": 10,
       "video_id": "m0nMtE2p2gU",
       "video_title": "IC Plain : หมวดที่ 1_บทที่ 1 และ บทที่ 2 - อ.ดวงดี",
       "channel_name": "AIMC Knowledge",
@@ -1016,18 +1041,29 @@
       "likes": 1,
       "is_question": false,
       "published_at": "2026-06-01T06:22:51Z",
-      "age_days": 46,
+      "age_days": 47,
       "video_id": "HoTkemtnEsg",
       "video_title": "IC Plain เทคนิคสอบผ่าน : Smart Wealth อ.ยีน EP.1",
       "channel_name": "Gene Panupong",
       "video_url": "https://www.youtube.com/watch?v=HoTkemtnEsg"
     },
     {
+      "text": "อาจารย์สอนดีมากกก เข้าใจมากๆค่ะ",
+      "likes": 0,
+      "is_question": false,
+      "published_at": "2026-05-14T14:29:18Z",
+      "age_days": 65,
+      "video_id": "3jX4nZp6PAk",
+      "video_title": "IC Plain : หมวดที่ 2_บทที่ 1_อ.ดวงดี",
+      "channel_name": "AIMC Knowledge",
+      "video_url": "https://www.youtube.com/watch?v=3jX4nZp6PAk"
+    },
+    {
       "text": "ขอบคุณค่ะ สอนดีมากค่ะอาจารย์",
       "likes": 0,
       "is_question": false,
       "published_at": "2026-04-13T07:44:09Z",
-      "age_days": 95,
+      "age_days": 96,
       "video_id": "m0nMtE2p2gU",
       "video_title": "IC Plain : หมวดที่ 1_บทที่ 1 และ บทที่ 2 - อ.ดวงดี",
       "channel_name": "AIMC Knowledge",
@@ -1038,29 +1074,18 @@
       "likes": 1,
       "is_question": false,
       "published_at": "2026-03-26T07:35:47Z",
-      "age_days": 113,
+      "age_days": 114,
       "video_id": "V7OrWg5EVsY",
       "video_title": "รู้จักใบอนุญาตผู้แนะนำการลงทุน หรือ IC License และใบอนุญาตผู้วางแผนการลงทุน หรือ IP License |ThaiPFA",
       "channel_name": "ThaiPFA",
       "video_url": "https://www.youtube.com/watch?v=V7OrWg5EVsY"
     },
     {
-      "text": "IC มีหมวดอื่นด้วยมั้ยคะ ชอบฟังค่ะ",
-      "likes": 0,
-      "is_question": false,
-      "published_at": "2026-03-18T00:47:34Z",
-      "age_days": 121,
-      "video_id": "iU9bHlMRKaM",
-      "video_title": "สรุปเนื้อหา IC หมวดจรรยาบรรณ",
-      "channel_name": "Kru Pu life insurance ( อ.ปุ๊ )",
-      "video_url": "https://www.youtube.com/watch?v=iU9bHlMRKaM"
-    },
-    {
       "text": "ทำไมตะลุยโจทย์ep1กับ2ตอบไม่ตรงกัน",
       "likes": 0,
       "is_question": false,
       "published_at": "2026-02-10T13:14:54Z",
-      "age_days": 157,
+      "age_days": 158,
       "video_id": "D9kInv67NqQ",
       "video_title": "ตะลุยโจทย์แนวข้อสอบ IC License | EP.2 IC Plain ชุดที่ 2 (Update 2566)",
       "channel_name": "Parinya Academy",
@@ -1071,7 +1096,7 @@
       "likes": 0,
       "is_question": false,
       "published_at": "2026-01-28T05:16:38Z",
-      "age_days": 170,
+      "age_days": 171,
       "video_id": "1P2smTVWtnk",
       "video_title": "สรุปข้อสอบ IC License | Plain Product หมวดที่ 1 (พร้อมสอบใน 1 ชั่วโมง)",
       "channel_name": "Parinya Academy",
